@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="assets//css//styles.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
-  <footer>
+  <footer>  
   <div class="container-fluid" style="background-color: #215db8;">
     <div class="row">
       <div class="col-md-1"></div>
@@ -72,7 +72,7 @@
             <a class="text-white py-3 fs-6" href="">Your US state privacy rights</a>
           </div>
           <div class="col-md-12 my-3">
-            <a href="index.html"><img src="Xana Logo.png" style="height: 60px;width: 200px;background-color: white;"></a>
+            <a href="index.php"><img src="assets\img\xana.png" style="height: 60px;width: 200px;background-color: white;"></a>
           </div>
           <div class="col-md-12">
             <p class="text-white">&copy; 2024 Xana Limited</p>
@@ -84,11 +84,5 @@
   </div>
   </footer>
   
-
-  
-
-  <script src="assets/js/script.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-
 </body>
 </html>

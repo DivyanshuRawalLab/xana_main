@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+
+
+  #search-results {
+    margin-top: 1.2rem;
+  }
+  .blog-post {
+    margin-bottom: 1.2rem;
+    padding: 0.6rem;
+    border: 1px solid #ddd;
+  }
+
+  h2{
+    color: #1B3051;
+  }
+  .results{
+    border: none;
+  }
+
+
+  #header2{
+    background-color: #fb7b06;
+    width: 100%;
+    height: auto;
+  }
+.collection h3{
+    color: #1B3051  ;
+}
+.collection2{
+    border-bottom: 1px solid rgb(149, 146, 146);
+}
+#collection3 p{
+    background-color: #446fa5;
+    color: white;
+    font-size: large;
+    height: 2vh;
+    width: 6vw;
+}
+#content p{
+    font-size: large;
+}
+#content h3{
+    color: #1b3051;
+}
+  
+#search-bg{
+    background-color: rgb(231, 179, 160);
+    height: 9vh;
+    width: 100%;
+}
+#search-bg p{
+    background-color: #446fa5;
+    height: 5vh;
+    width: auto;
+    text-align: center;
+    float: right;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+#bmc-img{
+    border-bottom: 1px solid rgb(83, 82, 82);
+}
+
+#imp-info h6{
+    font-weight: 600;
+}
+#imp-info a{
+    color: #446fa5;
+    font-size: small;
+}
+#imp-info2 a{
+    color: #446fa5;
+    font-size: small;
+}
+#imp-info2{
+    border-top: 1px solid rgb(75, 75, 75);
+    border-bottom: 1px solid rgb(79, 78, 78);
+}
+#imp-info3{
+    border-bottom: 1px solid rgb(85, 84, 84);
+}
+#imp-info3 a{
+    color: #446fa5;
+    font-size: small;
+}
+#imp-info4 p{
+    font-size: small;
+}
+#imp-info4 h6{
+    font-weight: 600;
+}
+#imp-info4{
+    border-bottom: 1px solid rgb(78, 76, 76);
+}
+
+#board-member h4{
+    color: #8e2555;
+}
+#board-member p{
+    font-size: large;
+}
+
+.board-member{
+    padding-bottom: 1rem;
+}
+
+#imp-info5 p{
+    background-color: #446fa5;
+    height: 5vh;
+    width: 12vw;
+    text-align: center;
+    color: white;
+    padding-top: 0.5rem;
+    font-size: medium;
+}
+#imp-info5 {
+    border-bottom: 1px solid rgb(87, 87, 87);
+    border-top: 1px solid rgb(96, 94, 94);
+}
+.follow{
+    border-bottom: 1px solid rgb(130, 129, 129);
+}
+.follow i{
+    color: #446fa5;
+    border: 1px solid #446fa5;
+    padding: 0.5rem;
+    border-radius: 50px ;
+}
+
+.col3-last{
+    text-decoration: underline;
+    font-size: small;
+}
+.blog{
+    border-bottom: 1px solid rgb(105, 105, 105);
+}
+.blog h3{
+    color: #1b3051;
+}
+.climate-change{
+    border-top: 01px solid rgb(197, 191, 191);
+}
+.climate-change h3{
+    color: #1B3051;
+}
+.climate-change2 h5{
+    color: #446fa5;
+}
+
+
+.tweets p{
+    font-size: large;
+}
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+    /* CSS rules go here */
+    #searchForm button {
+        width: 20% !important;
+        color: blue;
+    }
+
+    #search-bg p {
+        background-color: #446fa5;
+        height: 5vh;
+        width: 12vw;
+        text-align: center;
+        float: right;
+        color: white;
+        display: none;
+    }
+    #recent-content input{
+        width: 100%;
+    }
+}
+
+
+@media only screen and (max-width: 768px) {
+    /* CSS rules go here */
+
+    #search-bg p {
+        display: none;
+    }
+}

@@ -1406,6 +1406,18 @@ p a:hover {
             margin-top: 30px;
           }
 
-          
+
+          /* new css */
+
+          .boxy {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+          }
+
+          .additional-info__plus {
+            max-width: 3%;
+            max-height: 3%;
+          }
 
 

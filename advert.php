@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Advertising</title>
-    <link rel="stylesheet" href="advert.css">
+    <link rel="stylesheet" href="assets\css\advert.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 </head>
 
@@ -21,19 +21,19 @@
             <div class="mantel__wrap mantel__wrap--product">
                 <div class="mantel">
                     <img class="mantel__image"
-                        src="images\laboratory-8895978_1920.png"
+                        src="assets/img/laboratory-8895978_1920.png"
                         alt="Digital Advertising">
                 </div>
                 <div class="mantel__detail">
                     <div class="mantel__interior">
                         <div class="mantel__detail-image">
-                            <img src="images\ai-generated-8679778_1920.png"
+                            <img src="assets/img/ai-generated-8679778_1920.png"
                                 alt="Digital Advertising">
                         </div>
                         <div class="mantel__content">
                             <h1 class="mantel__detail-title">Digital Advertising</h1>
                             <div class="mantel__detail-image">
-                                <img src="images\dna-8829661_1920.jpg"
+                                <img src="assets/img/dna-8829661_1920.jpg"
                                     alt="Digital Advertising">
                             </div>
                             <div class="mantel__detail-desc">
@@ -60,7 +60,7 @@
                 <hr>
                 <h2>55 million monthly users</h2>
                 <p><img decoding="async" class="alignright size-full wp-image-2108"
-                        src="images\dna-8829661_1920.jpg"
+                        src="assets/img/dna-8829661_1920.jpg"
                         alt="Advertise on xana   online platforms" width="225" height="225"
                         srcset="https://partnerships. xana  .com/wp-content/uploads/2017/11/Advertise-on- xana  -online-platforms.jpg 225w, https://partnerships. xana  .com/wp-content/uploads/2017/11/Advertise-on- xana  -online-platforms-150x150.jpg 150w"
                         sizes="(max-width: 225px) 100vw, 225px">From pioneering scientists to dedicated health
@@ -78,7 +78,7 @@
                 <p>Leverage our privacy-forward and precise targeting technology.</p>
                 <p><img decoding="async" class="alignleft wp-image-2109" src="">audience segment</a></strong></p>
                 <p><strong><img loading="lazy" decoding="async" class="alignleft wp-image-2110"
-                            src="images\target-158129_1920.png"
+                            src="assets/img/target-158129_1920.png"
                             alt="Keyword targeting" width="30" height="30"
                             srcset="https://partnerships. xana  .com/wp-content/uploads/2017/11/Keyword-targeting-150x150.png 150w, https://partnerships. xana  .com/wp-content/uploads/2017/11/Keyword-targeting.png 300w"
                             sizes="(max-width: 30px) 100vw, 30px">2. Target by <a href="">keyword, with contextual
@@ -107,10 +107,10 @@
                 <div class="content-deck__header title-bar__wrap">
                     <div class="content-deck__title title-bar__text"></div>
 
-                    <img src="images/teamwork-5508359_1920.png"
+                    <img src="assets/img/teamwork-5508359_1920.png"
                         alt="Plus Symbol" class="additional-info__plus">
 
-                    <img src="images\structure-1473346_1920.jpg"
+                    <img src="assets/img/structure-1473346_1920.jpg"
                         alt="Minus Symbol" class="additional-info__minus hidden">
                 </div>
 
@@ -148,7 +148,7 @@
                         <div class="content-insert__wrap">
                             <div class="content-insert__interior">
                                 <div class="content-insert__image">
-                                    <img src="images\marketing-5187244_1920.png"
+                                    <img src="assets/img/marketing-5187244_1920.png"
                                         alt="">
                                 </div>
                                 <div class="content-insert__copy">
@@ -169,7 +169,7 @@
                             <div class="content-insert__wrap">
                                 <div class="content-insert__interior">
                                     <div class="content-insert__image">
-                                        <img src="images\email-4284157_1920.png"
+                                        <img src="assets/img/email-4284157_1920.png"
                                             alt="">
                                     </div>
                                     <div class="content-insert__copy">
@@ -189,7 +189,7 @@
                                 <div class="content-insert__wrap">
                                     <div class="content-insert__interior">
                                         <div class="content-insert__image">
-                                            <img src="images\business-4068346_1920.png"
+                                            <img src="assets/img/business-4068346_1920.png"
                                                 alt="">
                                         </div>
                                         <div class="content-insert__copy">

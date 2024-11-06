@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.download-btn{
+    width: 100%;
+    height: 5vh;
+    background-color: #215db8;
+    /* margin: 1rem; */
+    padding-top: 0.5rem;
+}
+.download-btn a{
+    text-decoration: none;
+}
+.download-btn i{
+    padding-left: 16rem;
+}
+.tab {
+    display: inline-block;
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    margin-right: 5px;
+}
+
+.active-tab {
+    background-color: #215db8;
+    color: white;
+}
+
+.tab-content {
+    display: none;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+.active-content {
+    display: block;
+}
+#searchForm input, button{
+  height: 2rem;
+}
+#searchForm input{
+  width: 100%;
+}
+#searchForm button{
+  color: #446fa5;
+}
+.dropdown-item:hover{
+  background-color: #1884df;
+}
+.dropdown{
+  margin: 0.9rem;
+}
+.reflink{
+    margin-left: 2rem;
+}
+
+.reflink a{
+    font-size: small;
+    font-weight: 600;
+    margin-left: 0.3rem;
+}
+.section {
+    width: 100%;
+    height: 2rem;
+    /* background-color: aqua; */
+    margin-top: 0.1rem;
+}
+.section a{
+    text-decoration: none;
+    color: #215db8;
+}
+/* .section:hover{
+    border: 2px solid #215db8;
+    text-decoration: underline;
+} */
+.title{
+    margin-top: 0.5rem;
+}
+.down-btn{
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+    /* CSS rules go here */
+    .sidebar-2{
+        display: none;
+    }
+    .down-btn{
+        display: block;
+        position: fix;
+        width: 100%;
+
+    }
+    .scrollable-container{
+        margin-bottom: 0px;
+    }
+}

@@ -226,50 +226,30 @@
             </div>
           </div>
         </div>
-        <div class="col-md-1"></div>
       </div>
     </div>
 
-    <div class="container-fluid my-5">
+    <div class="container">
       <div class="row">
-        <div class="feedback-container">
-          <h2>How was your experience today?</h2>
-          <?php
-            include 'admin_db.php';
-
-            // Handle form submission
-            if ($_SERVER["REQUEST_METHOD"] == "POST") {
-                $experience = $_POST['experience'];
-
-                // Insert feedback into the database
-                $sql = "INSERT INTO feedback (experience) VALUES ('$experience')";
-                
-                if ($conn->query($sql) === TRUE) {
-                    echo "Feedback submitted successfully!";
-                } else {
-                    echo "Error: " . $sql . "<br>" . $conn->error;
-                }
-            }
-
-            $conn->close();
-          ?>
-
-          <form action="" method="POST">
-              <div class="feedback-options">
-                  <input type="radio" name="experience" id="very_bad" value="very_bad" required>
-                  <label for="very_bad" style="color: #007bff;">&#128577;</label>
-
-                  <input type="radio" name="experience" id="bad" value="bad">
-                  <label for="bad">&#128528;</label>
-
-                  <input type="radio" name="experience" id="neutral" value="neutral">
-                  <label for="neutral">&#128578;</label>
-
-                  <input type="radio" name="experience" id="good" value="good">
-                  <label for="good">&#128512;</label>
-              </div>
-              <button type="submit" class="btn btn-feedback" >Send feedback</button>
-          </form>
+      <div class="container-smile">
+        <div class="feedback-box">
+          <h2 class="feedback-header">How was your experience today?</h2>
+          <div class="feedback-options">
+            <div class="feedback-option" data-value="bad">
+              <i class="far fa-frown"></i>&#128542;
+            </div>
+            <div class="feedback-option" data-value="ok">
+              <i class="far fa-meh"></i>&#128528;
+            </div>
+            <div class="feedback-option" data-value="good">
+              <i class="far fa-smile"></i>&#128578;
+            </div>
+            <div class="feedback-option" data-value="great">
+              <i class="far fa-grin"></i>&#128515;
+            </div>
+          </div>
+          <button class="feedback-button">Send feedback</button>
+        </div>
       </div>
       </div>
     </div>

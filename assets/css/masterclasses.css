@@ -1,0 +1,207 @@
+.body{
+    background-color: white;
+}
+
+     
+      
+      /*Resize the wrap to see the search bar change!*/
+      .wrap{
+        width: 18%;
+        position: absolute;
+        bottom: 84%;
+        left: 83%;
+        transform: translate(-50%, -50%);
+        padding-top: 70px;
+        margin-left: 35px;
+      }
+      .txj{
+        margin-left: 101px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-top: 40px;
+      }  
+      .child{
+        height: 400px;
+        margin-top: -24px;
+        margin-left: -10px;
+        background: linear-gradient(to bottom,#dd4f02, #ffae32);
+      }
+      .child-1{
+        height: 250px;
+        width: 500px;
+        background-color: #0000007a;
+        margin-left: 120px;
+        
+      }
+      .h1{
+        padding-top: 20px;
+        margin-left: 20px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: white;
+      }
+     
+      .child1{
+        height: 200px;
+        width: 100%;
+        background-color: #eeeeee;
+        display: flex;
+      }
+      .child1-1{
+        height: 200px;
+        width: 400px;
+      }
+      .child1-2{
+        height: 200px;
+        width: 400px;
+      }
+      .child1-3{
+        height: 200px;
+        width: 400px;
+      }
+      .child1-1-p{
+        margin-top: 40px;
+        margin-left: 110px;
+      }
+      .we{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: rgb(46, 46, 46);
+        margin-left: 250px;
+      }
+      .hr{
+        width: 1000px;
+      }
+      .child2{
+        height: 800px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 39px;
+      }
+      .child2-1{
+        height: 800px;
+        width: 480px;
+      }
+      .child2-h2{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: rgb(46, 46, 46);
+        margin-left: 10px;
+        margin-top: 10px;
+      }
+      .child2-p{
+        color: rgb(46, 46, 46);
+        margin-left: 10px;
+        margin-top: 10px;
+      }
+      .child2-p1{
+        color: rgb(46, 46, 46);
+        margin-left: 10px;
+        margin-top: 10px;
+        font-weight: bold;
+      }
+      .child2-a{
+        color: #1884df;
+        margin-left: 10px;
+      }
+      .child2-btn{
+        margin-left: 10px;
+        margin-top: 10px;
+        height: 30px;
+        width: 150px;
+        border: 1px solid #1884df;
+      }
+      .child2-btn a{
+        text-decoration: none;
+        color: #1884df;
+      }
+      .child2-btn a:hover{
+        text-decoration: underline;
+      }
+      .child3{
+        height: 800px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 39px;
+      }
+      .child3-1{
+        height: 400px;
+        width: 480px;
+        border: 1px solid;
+      }
+      .child4{
+        height: 800px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 39px;
+      }
+      .child4-1{
+        height: 300px;
+        width: 230px;
+      }
+      .child4-h2{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+      }
+      .child4-h2 a{
+        color: #000000;
+        text-decoration: none;
+      }
+      .child4-h2 a:hover{
+      text-decoration: underline;
+        
+      }
+      .child4-p{
+        margin-left: 2px;
+      }
+      .feedback{
+        height: 300px;
+        background-color: #eeeeee;
+      }
+      .feedback1{
+        height: 300px;
+        background-color: #eeeeee;
+        margin-top: 20px;
+      }
+      .feedback-h1{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        padding-top: 20px;
+        padding-left: 20px;
+      }
+      .feedback-p{
+        padding-top: 20px;
+        margin-left: 20px;
+      }
+      .composite-layer{
+        background-image: linear-gradient(to bottom,#2450aa,#1884df);
+        margin-left: -10px;
+        height: 800px;
+        width: 1520px;
+      }
+      .c-footer__heading{
+        color: white;
+        font-weight: bolder;
+        font-size: 20px;
+        padding-top: 40px;
+        padding-left: 150px;
+      }
+      .c-footer__item{
+        padding-left: 110px;
+        color: white;
+        font-size: 18px;
+        text-decoration: underline
+      }
+      .c-footer__group{
+        padding-left: 400px;
+      }
+      .c-footer__container{
+        padding-top: 50px;
+        
+      }
+      .c-footer_container{
+        height: 2px;
+        width: 1300px;
+        background-color: white;
+        margin-top: 110px;
+        margin-left: 110px;
+      }
+

@@ -31,7 +31,7 @@
   
     <nav class="navbar navbar-expand-lg bg-primary">
         <div class="container">
-          <a class="navbar-brand text-light" href="#">Bioinformatics</a>
+          <a class="navbar-brand text-light" href="index.php">Bioinformatics</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <i class="bi bi-list text-light fs-2"></i>
           </button>
@@ -42,10 +42,10 @@
                     Publish With Us
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">Publish With Us</a></li>
-                        <li><a class="dropdown-item" href="#">Bioinformatics</a></li>
-                        <li><a class="dropdown-item" href="#">For Authors</a></li>
-                        <li><a class="dropdown-item" href="#">For Referees</a></li>
+                        <li><a class="dropdown-item" href="publish_with_us.php">Publish With Us</a></li>
+                        <li><a class="dropdown-item" href="for_author.php">For Authors</a></li>
+                        <li><a class="dropdown-item" href="for_referees.php">For Referees</a></li>
+                        <li><a class="dropdown-item" href="for_edirtorial_board.php">For Editorial Board</a></li>
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
@@ -54,11 +54,12 @@
                     </a>
             
                     <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">About the Journals</a></li>
-                    <li><a class="dropdown-item" href="#">Journal Staff</a></li>
-                    <li><a class="dropdown-item" href="#">About the Editor</a></li>
-                    <li><a class="dropdown-item" href="#">Journal information</a></li>
-                    <li><a class="dropdown-item" href="#">Journal Metrics</a></li>
+                    <li><a class="dropdown-item" href="journals.php">About the Journals</a></li>
+                    <li><a class="dropdown-item" href="journal_staff.php">Journal Staff</a></li>
+                    <li><a class="dropdown-item" href="about_the_editor.php">About the Editor</a></li>
+                    <li><a class="dropdown-item" href="journal_info.php
+                    ">Journal information</a></li>
+                    <li><a class="dropdown-item" href="journal_metrics.php">Journal Metrics</a></li>
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
@@ -67,15 +68,15 @@
                     </a>
             
                     <ul class="dropdown-menu ">
-                    <li><a class="dropdown-item" href="#">Explore Content</a></li>
-                    <li><a class="dropdown-item" href="#">Research Articles</a></li>
-                    <li><a class="dropdown-item" href="#">News</a></li>
-                    <li><a class="dropdown-item" href="#">Opinion</a></li>
-                    <li><a class="dropdown-item" href="#">Research Analysis</a></li>
-                    <li><a class="dropdown-item" href="#">Careers</a></li>
-                    <li><a class="dropdown-item" href="#">Browse issues</a></li>
-                    <li><a class="dropdown-item" href="#">Current issues</a></li>
-                    <li><a class="dropdown-item" href="#">Collections</a></li>
+                    <li><a class="dropdown-item" href="explore_content.php">Explore Content</a></li>
+                    <li><a class="dropdown-item" href="research_articles.php">Research Articles</a></li>
+                    <li><a class="dropdown-item" href="news.php">News</a></li>
+                    <li><a class="dropdown-item" href="opinion.php">Opinion</a></li>
+                    <li><a class="dropdown-item" href="research_analysis.php">Research Analysis</a></li>
+                    <li><a class="dropdown-item" href="careers.php">Careers</a></li>
+                    <li><a class="dropdown-item" href="browse_issues.php">Browse issues</a></li>
+                    <li><a class="dropdown-item" href="current_issues.php">Current issues</a></li>
+                    <li><a class="dropdown-item" href="collections.php">Collections</a></li>
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
@@ -84,9 +85,9 @@
                     </a>
             
                     <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">Multimedia</a></li>
-                    <li><a class="dropdown-item" href="#">Podcast</a></li>
-                    <li><a class="dropdown-item" href="#">Videos</a></li>
+                    <li><a class="dropdown-item" href="masterclasses.php">Masterclasses</a></li>
+                    <li><a class="dropdown-item" href="podcast.php">Podcast</a></li>
+                    <li><a class="dropdown-item" href="videos.php">Videos</a></li>
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
@@ -95,9 +96,9 @@
                     </a>
             
                     <ul class="dropdown-menu ">
-                    <li><a class="dropdown-item" href="#">Events by Xana</a></li>
-                    <li><a class="dropdown-item" href="#">Conferences</a></li>
-                    <li><a class="dropdown-item" href="#">Webinars</a></li>
+                    <li><a class="dropdown-item" href="events.php">Events by Xana</a></li>
+                    <li><a class="dropdown-item" href="conferences.php">Conferences</a></li>
+                    <li><a class="dropdown-item" href="webinars.php">Webinars</a></li>
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
@@ -106,9 +107,10 @@
                     </a>
             
                     <ul class="dropdown-menu ">
-                    <li><a class="dropdown-item" href="#">About Us</a></li>
-                    <li><a class="dropdown-item" href="#">Contact Us</a></li>
-                    <li><a class="dropdown-item" href="#">Our team</a></li>
+                    <li><a class="dropdown-item" href="about_us.php">About Us</a></li>
+                    <li><a class="dropdown-item" href="contact_us.php">Contact Us</a></li>
+                    <li><a class="dropdown-item" href="our_team.php">Our team</a></li>
+                    <li><a class="dropdown-item" href="challenges_publication_industry.php">Challenges Publication Industry</a></li>
                     </ul>
                 </li>
             </ul>

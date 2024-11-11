@@ -1,0 +1,80 @@
+
+
+.box1{
+    border: 1px solid gray;
+    display: flex;   
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+.st{
+    margin-top: 5%;
+}
+.lt{
+    margin-bottom: 5%;
+}
+
+.text-content {
+    text-align: center;
+}
+
+.box1 .button1{
+    height: 32px;
+    width: 161px;
+    background-color: #006699;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: none;
+    margin-top: 10px;
+    /* margin-left: 250px; */
+   
+}
+.box1 .button2{
+    height: 33px;
+    width: 133px;
+    background-color: #3b3b3b;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: none;
+    margin-top: 10px;
+
+    
+    /* margin-left: 550px; */
+}
+       .box1 img{
+          height: auto;
+          width: 350px;
+          margin-left: 25px;
+          margin-top: 8px;
+        }
+     
+@media only screen and (max-width: 1000px) {
+    /* CSS rules go here */
+    .box1{
+        flex-direction: column;
+        justify-content: center;
+        padding: 20px;
+    }
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    /* CSS rules go here */
+    .box1{
+        flex-direction: column;
+        justify-content: center;
+        padding: 20px;
+    }
+
+    
+   .box1 img{
+        height: auto;
+        width: 300px;
+        margin-left: 25px;
+        margin-top: 8px;
+      }
+    }

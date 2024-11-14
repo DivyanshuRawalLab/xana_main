@@ -22,7 +22,7 @@
                 the page. Additionally you can then remove <br> the cookies from your machine using the methods described
                 below.</p>
 
-            <h2>About cookies</h2>
+            <h4>About cookies</h4>
 
             <p>Cookies are files, often including unique identifiers, that are sent by web servers to web browsers, and
                 which may then be sent <br> back to the server each time the browser requests a page from the server.&nbsp;
@@ -35,11 +35,11 @@
                 until its set expiry date (unless deleted by the user <br> before the expiry date). A session cookie, on the
                 other hand, will expire at the end of the user session, when the web browser <br> is closed.&nbsp;</p>
 
-            <h2>Cookies on the website</h2>
+            <h4>Cookies on the website</h4>
 
             <p>We use both session cookies and persistent cookies on the website.&nbsp;</p>
 
-            <h2>How we use cookies</h2>
+            <h4>How we use cookies</h4>
 
             <p>Cookies do not contain any information that personally identifies you, but personal information that we
                 store about you may <br> be linked, by us, to the information stored in and obtained from cookies. The
@@ -60,7 +60,7 @@
             </ol>
 
 
-            <h2>Third party cookies</h2>
+            <h4>Third party cookies</h4>
 
             <p>When you use the website, you may also be sent third party cookies.&nbsp;</p>
 
@@ -72,7 +72,7 @@
                 <li>to build a profile of your web surfing</li>
                 <li>to target advertisements which may be of particular interest to you.&nbsp;</li>
             </ol>
-            <h2>Blocking cookies</h2>
+            <h4>Blocking cookies</h4>
 
             <p>You can block cookies by group using our Privacy Preference Centre. In addition to this most browsers
                 allow you to refuse to <br> accept cookies. For example:&nbsp;</p>
@@ -90,7 +90,7 @@
                 block cookies, you may <br> not be able to use certain features on the website (log on, access content, use
                 search functions).</p>
 
-            <h2>Deleting cookies</h2>
+            <h4>Deleting cookies</h4>
 
             <p>You can also delete cookies already stored on your computer:</p>
             <ol>
@@ -105,16 +105,16 @@
             </ol>
             <p>Obviously, doing this may have a negative impact on the usability of many websites.</p>
 
-            <h2>Privacy Preference Centre</h2>
+            <h4>Privacy Preference Centre</h4>
 
             <p>The Privacy Preference Centre&nbsp;can be accessed either via the banner displayed when you first visit
                 the site, or the “Manage <br> Cookies” link in the footer of this page. It allows you to view the groups of
                 cookies we store (as outlined above in How We <br> Use Cookies), and manage whether the cookies for those
                 groups are active.</p>
 
-            <h2>Contact us</h2>
+            <h4>Contact us</h4>
 
-            <p>Our contact details can be found on the <a href="contact us.html">Contact
+            <p>Our contact details can be found on the <a href="contact_us.php">Contact
                     Us</a> page</p>
         </div>
     </div>

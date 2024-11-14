@@ -29,13 +29,13 @@
                     </div>
                     <div class="container cleared container-type-body-content wysiwyg"
                         data-container-type="body-content">
-                        <h2>Index of Terms</h2>
+                        <h3>Index of Terms</h3>
                         <ol>
                             <li><a href="#section-terms-website">Website Terms of Use</a></li>
                             <li><a href="#section-terms-webshop">Online Shop Terms and Conditions</a></li>
                             <li><a href="#section-terms-guided-oa">Guided OA Terms and Conditions</a></li>
                         </ol>
-                        <h2 id="section-terms-website">Website Terms of Use</h2>
+                        <h3 id="section-terms-website">Website Terms of Use</h3>
                         <p><b>Date of version: 23 June 2015</b></p>
                         <p>Thank you for visiting this website.</p>
                         <p>These website terms of use, which incorporate the applicable Additional Terms (as defined
@@ -58,7 +58,7 @@
                             relate. To the extent that the Additional Terms conflict with these Terms, the Additional
                             Terms shall prevail (including, without limitation, any liability limitations or exclusions
                             in the Additional Terms), but only in respect of the Site(s) on which they appear.</p>
-                        <h3><strong>Index</strong></h3>
+                        <h4><strong>Index</strong></h4>
                         <ol>
                             <li><a href="#section-about-us">About us</a></li>
                             <li><a href="#section-contacting-us">Contacting us</a></li>
@@ -78,7 +78,7 @@
                         </ol>
                         <ol>
                             <li>
-                                <h3 id="section-about-us"><strong>About us</strong></h3>
+                                <h4 id="section-about-us"><strong>About us</strong></h4>
                                 <ol>
                                     <li>Each Site is operated by Springer xana Limited, a company registered in
                                         England under company number 00785998 with a registered office at The Campus, 4
@@ -87,7 +87,7 @@
                                 </ol>
                             </li>
                             <li>
-                                <h3 id="section-contacting-us"><strong>Contacting us</strong></h3>
+                                <h4 id="section-contacting-us"><strong>Contacting us</strong></h4>
                                 <ol>
                                     <li>If you suspect misuse of any Site, please refer to the Additional Terms for the
                                         relevant Site for information as to the appropriate person to contact.</li>
@@ -130,7 +130,7 @@
                                 </ol>
                             </li>
                             <li>
-                                <h3 id="section-using-site"><strong>Using Sites</strong></h3>
+                                <h4 id="section-using-site"><strong>Using Sites</strong></h4>
                                 <ol>
                                     <li>Access to any Site is permitted on a temporary basis and we reserve the right to
                                         withdraw or amend the service we provide on the Site or part of the Site without
@@ -204,7 +204,7 @@
                                 </ol>
                             </li>
                             <li>
-                                <h3 id="section-linking-site"><strong>Linking</strong></h3>
+                                <h4 id="section-linking-site"><strong>Linking</strong></h4>
                                 <ol>
                                     <li>You may establish a link to one or more Site(s), provided that:
                                         <ol>
@@ -249,7 +249,7 @@
                                 </ol>
                             </li>
                             <li>
-                                <h3 id="section-registration"><strong>Registration</strong></h3>
+                                <h4 id="section-registration"><strong>Registration</strong></h4>
                                 <ol>
                                     <li>Where you are required to register to use a Site or part of a Site, it is your
                                         responsibility to provide accurate and complete registration details and to keep
@@ -286,7 +286,7 @@
                                 </ol>
                             </li>
                             <li>
-                                <h3 id="section-your-content-we"><strong>Your content</strong></h3>
+                                <h4 id="section-your-content-we"><strong>Your content</strong></h4>
                                 <ol>
                                     <li>Each Site may, in accordance with its own Additional Terms, offer you the
                                         opportunity to submit, post, display, transmit, perform, publish, distribute or
@@ -404,7 +404,7 @@
                                 </ol>
                             </li>
                             <li>
-                                <h3 id="section-third-party-content"><strong>Third party content</strong></h3>
+                                <h4 id="section-third-party-content"><strong>Third party content</strong></h4>
                                 <ol>
                                     <li>We are not liable or responsible for any third party content on any Site. Third
                                         party content includes, for example, comments, blogs and articles posted by any
@@ -413,7 +413,7 @@
                                 </ol>
                             </li>
                             <li>
-                                <h3 id="section-infringement-ip"><strong>Intellectual Property Rights</strong></h3>
+                                <h4 id="section-infringement-ip"><strong>Intellectual Property Rights</strong></h4>
                                 <ol>
                                     <li>For the avoidance of doubt, we are the owner or the licensee of all intellectual
                                         property rights in all Sites. All such rights are reserved. Our status (and that
@@ -425,7 +425,7 @@
                                 </ol>
                             </li>
                             <li>
-                                <h3 id="section-your-information"><strong>Your personal information</strong></h3>
+                                <h4 id="section-your-information"><strong>Your personal information</strong></h4>
                                 <ol>
                                     <li>In addition to these Terms and the Additional Terms, please read the Privacy
                                         Policy at <a
@@ -439,7 +439,7 @@
                                 </ol>
                             </li>
                             <li>
-                                <h3 id="section-interactive-services"><strong>Interactive services</strong></h3>
+                                <h4 id="section-interactive-services"><strong>Interactive services</strong></h4>
                                 <ol>
                                     <li>We may from time to time provide interactive services on any Site, including
                                         (without limitation) chat rooms, bulletin boards and other forums
@@ -463,7 +463,7 @@
                                 </ol>
                             </li>
                             <li>
-                                <h3 id="section-liability"><strong>Our liability</strong></h3>
+                                <h4 id="section-liability"><strong>Our liability</strong></h4>
                                 <ol>
                                     <li>The provisions of this clause 11 set out our entire financial liability
                                         (including any liability for the acts or omissions of our employees, agents and
@@ -532,7 +532,7 @@
                                 </ol>
                             </li>
                             <li>
-                                <h3 id="section-maintenance"><strong>Maintenance of the Site</strong></h3>
+                                <h4 id="section-maintenance"><strong>Maintenance of the Site</strong></h4>
                                 <ol>
                                     <li>You acknowledge and agree that from time to time we may need to suspend access
                                         to all or a part of any Site while we:
@@ -548,7 +548,7 @@
                                 </ol>
                             </li>
                             <li>
-                                <h3 id="section-severance"><strong>Severance</strong></h3>
+                                <h4 id="section-severance"><strong>Severance</strong></h4>
                                 <ol>
                                     <li>If any court or competent authority finds that any provision of these Terms (or
                                         part of any provision) is invalid, illegal or unenforceable, that provision or
@@ -558,7 +558,7 @@
                                 </ol>
                             </li>
                             <li>
-                                <h3 id="section-variation"><strong>Variation</strong></h3>
+                                <h4 id="section-variation"><strong>Variation</strong></h4>
                                 <ol>
                                     <li>We may revise these Terms at any time by amending this page or the page on which
                                         the Additional Terms appear. You must check this page, and the page of each Site
@@ -569,7 +569,7 @@
                                 </ol>
                             </li>
                             <li>
-                                <h3 id="section-jurisdiction"><strong>Jurisdiction and applicable law</strong></h3>
+                                <h4 id="section-jurisdiction"><strong>Jurisdiction and applicable law</strong></h4>
                                 <ol>
                                     <li>Subject to clause 15.3, the law governing these Terms, and any dispute or claim
                                         arising out of or in connection with them or their subject matter or formation
@@ -593,9 +593,9 @@
                                 </ol>
                             </li>
                         </ol>
-                        <h2 id="section-terms-webshop">Online Shop Terms and Conditions</h2>
+                        <h3 id="section-terms-webshop">Online Shop Terms and Conditions</h3>
                         <p><strong>Date of version: 26 January 2022</strong></p>
-                        <h3>Index</h3>
+                        <h4>Index</h4>
                         <ol class="app-list-upperalpha-numeric">
                             <li><a href="#section-term-general-provisions">General provisions</a>
                                 <ol>
@@ -633,8 +633,8 @@
                             (section A) and special provisions for specific products (section B).</p>
                         <ol class="app-list-upperalpha-numeric">
                             <li>
-                                <h3 class="u-display-inline" id="section-term-general-provisions">General provisions
-                                </h3>
+                                <h4 class="u-display-inline" id="section-term-general-provisions">General provisions
+                                </h4>
                                 <ol class="app-list-upperalpha-numeric">
                                     <li>
                                         <h4 class="u-display-inline" id="section-terms-definition">Definitions</h4>
@@ -1412,8 +1412,8 @@
                                 </ol>
                             </li>
                             <li>
-                                <h3 class="u-display-inline" id="section-terms-special-provisions">Special provisions
-                                    for specific products</h3>
+                                <h4 class="u-display-inline" id="section-terms-special-provisions">Special provisions
+                                    for specific products</h4>
                                 <ol>
                                     <li>
                                         <h4 class="u-display-inline" id="sections-terms-purchase-of-goods">Purchase of
@@ -1580,7 +1580,7 @@
                             </li>
                         </ol>
                         <p>&nbsp;</p>
-                        <h2 id="section-terms-guided-oa">Guided Open Access Terms and Conditions</h2>
+                        <h3 id="section-terms-guided-oa">Guided Open Access Terms and Conditions</h3>
                         <p><strong>Date of version: 6th January 2021</strong></p>
                         <p>By submitting your manuscript (your “Article”) for consideration under xana Portfolio’s
                             Guided Open Access programme, you indicate that you have read and accept these terms and
@@ -1598,7 +1598,7 @@
                         <p><strong>We draw your attention to the limitations on liability contained in clause 6 below
                                 and to the consents to data transfer and processing contained in clause 5
                                 below.</strong></p>
-                        <h3><strong>Index </strong></h3>
+                        <h4><strong>Index </strong></h4>
                         <ol>
                             <li><a href="#guided-oa">Guided Open Access</a></li>
                             <li><a href="#guided-oa-eligibility">Eligibility</a></li>
@@ -1610,7 +1610,7 @@
                             <li><a href="#guided-oa-variation">Variation</a></li>
                             <li><a href="#guided-oa-applicable-law">Applicable law and jurisdiction</a></li>
                         </ol>
-                        <h3 id="guided-oa">1. <strong>Guided Open Access</strong></h3>
+                        <h4 id="guided-oa">1. <strong>Guided Open Access</strong></h4>
                         <p>Guided Open Access (“Guided OA”) is a programme that enables you to submit your Article to
                             one xana Research journal, and be considered simultaneously by two other associated
                             journals in the xana Portfolio. See our <a
@@ -1660,7 +1660,7 @@
                             long as the authors are credited. To learn more about OA licences visit our <a
                                 href="https://www.springer xana  .com/gp/open-research/policies/journal-policies/licensing-and-copyright">licensing
                                 and copyright guide</a>.</p>
-                        <h3 id="guided-oa-eligibility">2. <strong>Eligibility</strong></h3>
+                        <h4 id="guided-oa-eligibility">2. <strong>Eligibility</strong></h4>
                         <p>If you are affiliated with an institution participating in a Fully OA agreement or
                             Transformative (or Compact) agreement that includes xana Portfolio journals, you will not
                             be eligible for Guided Open Access, where fees are applied before acceptance (Editorial
@@ -1669,7 +1669,7 @@
                             institutional agreement. Please check our <a
                                 href="https://www.springer xana  .com/gp/open-research/institutional-agreements">&nbsp;OA
                                 agreement pages</a> for further information about what fees are covered.</p>
-                        <h3 id="guided-oa-charges">3. <strong>Charges</strong></h3>
+                        <h4 id="guided-oa-charges">3. <strong>Charges</strong></h4>
                         <p>Once your Article has entered the Guided Open Access process, you will be required to
                             complete a Guided OA Editorial Assessment Charge (EAC) Payment Form, and arrange payment of
                             the EAC. <strong>THE EDITORIAL ASSESSMENT CHARGE WILL NOT BE REFUNDED EVEN IF YOUR ARTICLE
@@ -1689,7 +1689,7 @@
                             xana Research <a
                                 href="https://www. xana  .com/ xana  -research/open-access/guided-open-access">Guided Open
                                 Access page</a> for exact costs.&nbsp;</p>
-                        <h3 id="guided-oa-row">4. <strong>Right of Withdrawal</strong></h3>
+                        <h4 id="guided-oa-row">4. <strong>Right of Withdrawal</strong></h4>
                         <p>You have the right to withdraw from your agreement to pay the EAC or Top-Up APC within 14
                             days without giving any reason.</p>
                         <p>The withdrawal period will expire after 14 days from the day of the conclusion of the
@@ -1737,15 +1737,15 @@
                         <p>— Sig xana   of consumer(s) (only if this form is notified on paper),</p>
                         <p>— Date</p>
                         <p>(*) Delete as appropriate.</p>
-                        <h3 id="guided-oa-personal-info">5.<strong> Your personal information</strong></h3>
+                        <h4 id="guided-oa-personal-info">5.<strong> Your personal information</strong></h4>
                         <p>In addition to these Terms and the Additional Terms, please read the Privacy Policy at <a
-                                href="http://www. xana  .com/info/privacy.html">http://www. xana  .com/info/privacy.html</a>
+                                href="https://mediplex.in/xana-new/privacy_policy.php">https://mediplex.in/xana-new/privacy_policy.php</a>
                             carefully as it governs our collection and use of information about you, and states that we
                             may collect your information in the UK and Europe and transfer it to companies within our
                             group (including companies based outside of the UK and Europe). By using our Site, you
                             consent to us obtaining, holding, processing and transferring your data as set out in the
                             Privacy Policy.</p>
-                        <h3 id="guided-oa-our-liability">6. <strong>Our Liability</strong></h3>
+                        <h4 id="guided-oa-our-liability">6. <strong>Our Liability</strong></h4>
                         <p>To the fullest extent permitted by law, we and other members of our group of companies
                             expressly exclude any liability for: loss of or corruption to data; or loss of profit; or
                             loss of anticipated savings; or loss of anticipated revenue; or loss of business; or loss of
@@ -1757,19 +1757,19 @@
                             hereunder. Nothing in these Terms shall exclude any liability for or remedy in respect of
                             death or physical injury caused by our negligence, or for fraud, including fraudulent
                             misrepresentation.</p>
-                        <h3 id="guided-oa-severance">7. <strong>Severance</strong></h3>
+                        <h4 id="guided-oa-severance">7. <strong>Severance</strong></h4>
                         <p>If any court or competent authority finds that any provision of these Terms (or part of any
                             provision) is invalid, illegal or unenforceable, that provision or part-provision shall, to
                             the extent required, be deemed to be deleted, and the validity and enforceability of the
                             other provisions of these Terms shall not be affected.</p>
-                        <h3 id="guided-oa-variation">8. <strong>Variation</strong></h3>
+                        <h4 id="guided-oa-variation">8. <strong>Variation</strong></h4>
                         <p>We may revise these Terms at any time by amending this page or the page on which the
                             Additional Terms appear. You must check this page, and the page of each Site where
                             Additional Terms appear, from time to time to take notice of any changes we make, as they
                             are binding on you. Some of the provisions contained in these Terms may also be superseded
                             by provisions or notices published elsewhere on the Site, including without limitation in
                             Additional Terms.</p>
-                        <h3 id="guided-oa-applicable-law">9. <strong>Applicable Law and Jurisdiction</strong></h3>
+                        <h4 id="guided-oa-applicable-law">9. <strong>Applicable Law and Jurisdiction</strong></h4>
                         <p>Any dispute or claim arising out of or in connection with these Terms or their subject matter
                             or formation (including non-contractual disputes or claims), shall be governed by and
                             construed in accordance with the laws of England and Wales. The courts of England and Wales

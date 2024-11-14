@@ -24,7 +24,7 @@
     <p class="child2-p">Solutions to help you on your path to publication,<br> useful for researchers and authors of any level.</p>
     <div class="child2-2">
       <div class="child2-2-1">
-        <h3 class="h3"> xana   Research Language Editing</h3>
+        <h3 class="h3"> Xana   Research Language Editing</h3>
         <p class="p">Get the help of experienced scientific editors, and how they can optimize your written English.</p>
         <button class="button"><a href="" >More about this service <span style="margin-left: 180px;">→</span></a></button>
       </div>
@@ -41,12 +41,12 @@
     <p class="child3-p">Expand your skillset, seach for a new job, learn how to<br> present your work and much more.</p>
     <div class="child3-2">
       <div class="child3-2-1">
-        <h3 class="h3"> xana   Careers</h3>
+        <h3 class="h3"> Xana   Careers</h3>
         <p class="p">Find your next position on  xana   Careers. This portal connects candidates to leading jobs in science<br> worldwide.</p>
         <button class="button"><a href="" >More about this service <span style="margin-left: 180px;">→</span></a></button>
       </div>
       <div class="child3-2-2">
-        <h3 class="h3"> xana   Masterclasses</h3>
+        <h3 class="h3"> Xana   Masterclasses</h3>
         <p class="p">Supercharge your skills, confidence and career through high-quality on-demand training from  xana   Portfolio journal editors and other esteemed experts.</p>
         <button class="button"><a href="" >More about this service <span style="margin-left: 180px;">→</span></a></button>
       </div>
@@ -64,8 +64,8 @@
       </div>
       <div class="child4-2-2">
         <h3 class="h3">Video Byte</h3>
-        <p class="p">Create a 1-minute video overview of your research and how it impacts society.</p>
-        <button class="button"><a href="" >More about this service <span style="margin-left: 180px;">→</span></a></button>
+        <p class="p">Create a 1-minute video overview of your research and how it impacts society.Please upload your research article and any supporting documents that will help us create your video.</p>
+        <button class="button mb-0"><a href="" >More about this service <span style="margin-left: 180px;">→</span></a></button>
       </div>
       
       </div>
@@ -76,7 +76,7 @@
       <div class="child4-2">
         <div class="child4-2-1">
           <h3 class="h3">Scite</h3>
-          <p class="p">A literature management tool that shows your citations in context.</p>
+          <p class="p">This contribution focuses on reference management systems that help writers capture, store, organize, use, cite, annotate, and share source material for their writing. </p>
           <button class="button"><a href="" >More about this service <span style="margin-left: 180px;">→</span></a></button>
         </div>
         <div class="child4-2-2">
@@ -84,16 +84,6 @@
           <p class="p">Discover new things and foster communication between you and other scientists. These conferences bring you the same depth and timeliness of the  xana   Portfolio.</p>
           <button class="button"><a href="" >More about this service <span style="margin-left: 180px;">→</span></a></button>
         </div>
-        </div>
-        <div class="child4-1">
-          <h1 class="child4-1-h1"><a href="">Support to succeed   →</a></h1>
-        </div>
-        <div class="child4-2" style="margin-top: 80px;">
-          <div class="child4-2-1">
-            <h3 class="h3">Grant services</h3>
-            <p class="p">Get the skills and learn what you need to write compelling grant proposals, with tools and skills to help you craft more successful proposals.</p>
-            <button class="button"><a href="" >More about this service <span style="margin-left: 180px;">→</span></a></button>
-          </div>
         </div>
         </div>
 </div>

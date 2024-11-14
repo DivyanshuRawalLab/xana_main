@@ -16,7 +16,7 @@
       }
       .txj{
         margin-left: 101px;
-        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
         margin-top: 40px;
       }  
       .child{
@@ -26,16 +26,16 @@
         background: linear-gradient(to bottom,#dd4f02, #ffae32);
       }
       .child-1{
-        height: 250px;
+        height: 300px;
         width: 500px;
-        background-color: #0000007a;
+        background-color: #9895957b;
         margin-left: 120px;
         
       }
       .h1{
         padding-top: 20px;
         margin-left: 20px;
-        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
         color: white;
       }
      
@@ -61,14 +61,8 @@
         margin-top: 40px;
         margin-left: 110px;
       }
-      .we{
-        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        color: rgb(46, 46, 46);
-        margin-left: 250px;
-      }
-      .hr{
-        width: 1000px;
-      }
+   
+     
       .child2{
         height: 800px;
         display: flex;
@@ -81,7 +75,7 @@
         width: 480px;
       }
       .child2-h2{
-        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
         color: rgb(46, 46, 46);
         margin-left: 10px;
         margin-top: 10px;
@@ -116,7 +110,7 @@
         text-decoration: underline;
       }
       .child3{
-        height: 800px;
+        margin: 30px 0;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -128,7 +122,7 @@
         border: 1px solid;
       }
       .child4{
-        height: 800px;
+        margin: 30px 0;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -138,15 +132,12 @@
         height: 300px;
         width: 230px;
       }
-      .child4-h2{
-        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-
-      }
-      .child4-h2 a{
+  
+      .child4-h4 a{
         color: #000000;
         text-decoration: none;
       }
-      .child4-h2 a:hover{
+      .child4-h4 a:hover{
       text-decoration: underline;
         
       }
@@ -163,7 +154,7 @@
         margin-top: 20px;
       }
       .feedback-h1{
-        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
         padding-top: 20px;
         padding-left: 20px;
       }

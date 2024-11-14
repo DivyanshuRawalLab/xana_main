@@ -100,7 +100,7 @@
                                 <p class="fs-6 text-decoration-underline" style="color: #1884df; cursor: pointer; font-size: small;">Most recent articles RSS <i class="bi bi-wifi"></i></p>
                               </div>
                               <div class="col-md-6" class="tab-content" data-content="most-accessed" style="border: none;">
-                                <button class="text-center p-2" style="color: #1884df;">View all articles <i class="bi bi-arrow-right-short"></i></button>
+                                <a href="articles.php" class="btn btn-primary text-white p-2">View all articles <i class="bi bi-arrow-right-short"></i></a>
                               </div>
 
                             </div>

@@ -17,7 +17,7 @@
 
                         <h1 class="tighten-line-height small-space-below">Accessibility Statement</h1>
 
-                        <h2>We’re committed to easy access for everyone</h2>
+                        <h3>We’re committed to easy access for everyone</h3>
 
                         <p> xana  .com is committed to making our website as accessible as possible to everyone,
                             including those with visual, hearing, <br> cognitive and motor impairments. We're constantly
@@ -44,7 +44,7 @@
                           
                         </ul>
                        
-                        <h2>Web Content Accessibility Guidelines (WCAG) 2.1</h2>
+                        <h3>Web Content Accessibility Guidelines (WCAG) 2.1</h3>
                       
                         <ul>
                             <li  ><strong>Perceivable</strong> - Information and user interface components must be
@@ -56,9 +56,9 @@
                             <li  ><strong>Robust</strong> - Content must be robust enough that it can be interpreted
                                 reliably by a wide variety of user agents, including <br> assistive technologies</li>
                         </ul>
-                        <h2>Voluntary Product Accessibility Template (VPAT)</h2>
-                        <h2>Optimising your set-up for your needs</h2>
-                        <h2>Contacting us</h2>
+                        <h3>Voluntary Product Accessibility Template (VPAT)</h3>
+                        <h5>Optimising your set-up for your needs</h5>
+                        <h5>Contacting us</h5>
                     </div>
                 </div>
 

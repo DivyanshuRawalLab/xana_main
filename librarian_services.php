@@ -34,15 +34,17 @@
   <div class="box1">
   <h1 class="head" style="padding-top: 60px;color: #486a7e;font-size:40px;">Enhancing Tools & Services: Meet our Account Development Team</h1>
   <div class="line"></div>
-  <p class="para" style="margin-top: 40px; padding: 0; text-decoration: none;">Our dedicated Account Development team is in place to offer one-to-one account support and expertise</span></p>
+  <div class="my-3">
+  <p class="para">Our dedicated Account Development team is in place to offer one-to-one account support and expertise</span></p>
   <p class="para">on publishing innovation and industry topics. This team are experts in implementation and</p>
   <p class="para">discoverability methods, in-depth usage reporting, promotion and training support, and helping you</p>
   <p class="para">explore your library's ROI opportunities to make well informed purchasing decision.</p>
-  <p class="para" style="margin-top: 40px;">Connect with our informed and proactive teams worldwide.</p>
+  <p class="para">Connect with our informed and proactive teams worldwide.</p>
+  </div>
   
 
  </div>
- <a  href="" class="anchor">Find out more</a>
+ 
    <div class="box3">
     <div class="box3-1">
       <img src="assets/img/target-4859140_1920.png">

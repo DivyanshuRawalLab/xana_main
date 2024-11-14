@@ -15,7 +15,7 @@
         <div class="child1">
 		<div class="child2">
 			<h2 class="heading1">Preparing your manuscript</h2>
-			<h3 class="head1">This section provides general style and formatting information only. Formatting guidelines for specific article types can be found below. </h3>
+			<h5 class="head1">This section provides general style and formatting information only. Formatting guidelines for specific article types can be found below. </h5>
 			<nav class="navbar5">
 				<div>
 				  <ul>
@@ -39,9 +39,9 @@
 				  </ul>
 				</div>
 			  </nav>
-			  <h2 class="heading3" id="Figure">Preparing figures  <button id="back-to-top" title="Back to Top" style="margin-top: -200px;">Back to top</button></h2>
+			  <h2 class="heading3" id="Figure">Preparing figures  <a href="for_author.php" class="btn btn-primary rounded">Back to top</a></h2>
 			  <div class="line2"></div>
-			  <h3 class="head2">When preparing figures, please follow the formatting instructions below.</h3>
+			  <h5 class="head2">When preparing figures, please follow the formatting instructions below.</h5>
 			<nav class="navbar7">
 				<div>
 				  <ul>
@@ -58,7 +58,7 @@
 			  <div class="scrollbar-container">
 				<div class="scrollbar-content">
 					<h4 class="heading4">Figure file types</h4>
-					<h3 class="head3">We accept the following file formats for figures:</h3>
+					<h5 class="head3">We accept the following file formats for figures:</h5>
 					<nav class="navbar8">
 						<div>
 						  <ul>
@@ -77,8 +77,8 @@
 						</div>
 					  </nav>
 					  <h4 class="heading4">Figure size and resolution</h4>
-					<h3 class="head3">Figures are resized during publication of the final full text and PDF versions to conform to the<br> BioMed Central standard dimensions, which are detailed below.</h3>
-					<h3 class="head3">Figures on the web:</h3>
+					<h5 class="head3">Figures are resized during publication of the final full text and PDF versions to conform to the<br> BioMed Central standard dimensions, which are detailed below.</h5>
+					<h5 class="head3">Figures on the web:</h5>
 					<nav class="navbar8">
 						<div>
 						  <ul>
@@ -107,7 +107,7 @@
 						</nav>
 						<h2 class="heading5" id="Text">Preparing main manuscript text<button id="back-to-top1" title="Back-to-Top">Back to top</button></h2>
 						<div class="line4"></div>
-						<h3 class="head4">Quick points:</h3>
+						<h5 class="head4">Quick points:</h5>
 					  <nav class="navbar9">
 						  <div>
 							<ul>
@@ -119,7 +119,7 @@
 						  </div>
 						</nav>
 						<h4 class="heading4">File formats</h4>
-						<h3 class="head3">The following word processor file formats are acceptable for the main manuscript document:</h3>
+						<h5 class="head3">The following word processor file formats are acceptable for the main manuscript document:</h5>
 						<nav class="navbar8">
 							<div>
 							  <ul>
@@ -131,7 +131,7 @@
 							</div>
 						  </nav>
 						  <h4 class="heading4">Additional information for TeX/LaTeX users</h4>
-						<h3 class="head3">You are encouraged to use the <span style="color: #1b3051; text-decoration: underline;">Xana template</span> when preparing a submission. A<br> PDF of your manuscript files will be compiled during submission using pdfLaTeX and TexLive<br> 2021.</h3>
+						<h5 class="head3">You are encouraged to use the <span style="color: #1b3051; text-decoration: underline;">Xana template</span> when preparing a submission. A<br> PDF of your manuscript files will be compiled during submission using pdfLaTeX and TexLive<br> 2021.</h5>
 						<nav class="navbar8">
 							<div>
 							  <ul>
@@ -141,7 +141,7 @@
 						  </nav>
 						  <h4 class="heading4">Style and language</h4>
 						  <h4 class="heading4"><em>Improving your written English </em></h4>
-						  <h3 class="head3">Presenting your work in well-written English gives it its best chance for editors and reviewers to understand it and evaluate it fairly.</h3>
+						  <h5 class="head3">Presenting your work in well-written English gives it its best chance for editors and reviewers to understand it and evaluate it fairly.</h5>
 						  <nav class="navbar8">
 							  <div>
 								<ul>
@@ -150,13 +150,13 @@
 							  </div>
 							</nav>
 							<h4 class="heading4"><em>Language quality checker </em></h4>
-							<h3 class="head3">You can upload your manuscript and get a free language check from our partner AJE. The software uses AI to make suggestions that can improve writing quality. Trained on 300,000+ research manuscripts from more than 400+ areas of study and over 2000 field-specific topics the tool will deliver fast, highly accurate English language improvements. Your paper will be digitally edited and returned to you within approximately 10 minutes. </h3>
+							<h5 class="head3">You can upload your manuscript and get a free language check from our partner AJE. The software uses AI to make suggestions that can improve writing quality. Trained on 300,000+ research manuscripts from more than 400+ areas of study and over 2000 field-specific topics the tool will deliver fast, highly accurate English language improvements. Your paper will be digitally edited and returned to you within approximately 10 minutes. </h5>
 							<ul>
 								<li style="margin-top: 20px;list-style: none; margin-left: -40px;"><a style="color: #1b3051;font-size: 18px; font-family: Arial, Helvetica, sans-serif;font-weight: bold;"href="#">Try the tool for free now</a></li>
 								</ul>
 							</nav>
 							<h4 class="heading4"><em>Language and manuscript preparation services </em></h4>
-							<h3 class="head3">Let one of our experts assist you with getting your manuscript and language into shape - our services cover:</h3>
+							<h5 class="head3">Let one of our experts assist you with getting your manuscript and language into shape - our services cover:</h5>
 							<nav class="navbar8">
 								<div>
 								  <ul>

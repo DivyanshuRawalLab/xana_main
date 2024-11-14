@@ -32,7 +32,7 @@
         <div class="box1">
             <img style="margin-top: 20px;" src="https://images.cvent.com/4ca69d4ab54144b1a586165977fa9f07/2e98a23e90b15fe131a316a224da480f/4014cd933105481db403317c2a1dd449/ace38ab5ce2c705a9248ee47b12b5ef2!_!40ad31a8cde0d2719d4f0cf6a87ffd77.jpeg?f=webp" alt="">
             <div class="text-content">
-                <a href=""> xana   Café: Modulating the Microbiome </a>
+                <a href=""> Xana   Café: Modulating the Microbiome </a>
                 <p>November 19, 2024</p>
                 <p>London, UK</p>
                 <p>Sponsor: <em>Yakult</em></p>

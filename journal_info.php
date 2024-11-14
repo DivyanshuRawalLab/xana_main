@@ -19,13 +19,13 @@
                 </div>
                 <div class="container cleared container-type-body-content wysiwyg" data-container-type="body-content">
                     <h2 id="relationship">Aims &amp; Scope</h2>
-                    <p><em> xana  </em>&nbsp;is a weekly international journal publishing the finest peer-reviewed
+                    <p> Xana &nbsp;is a weekly international journal publishing the finest peer-reviewed
                         research in all fields of science and technology on the basis of its originality, importance,
                         interdisciplinary interest, timeliness, accessibility, elegance and surprising
                         conclusions.&nbsp; xana  &nbsp;also provides rapid, authoritative, insightful and arresting news
                         and interpretation of topical and coming trends affecting science, scientists and the wider
                         public.</p>
-                    <h2><em> xana  </em>'s mission statement</h2>
+                    <h2> Xana's mission statement</h2>
                     <p>First, to serve scientists through prompt publication of significant advances in any branch of
                         science, and to provide a forum for the reporting and discussion of news and issues concerning
                         science. Second, to ensure that the results of science are rapidly disseminated to the public
@@ -37,15 +37,15 @@
                     <p>Like the other&nbsp; xana  &nbsp;titles,&nbsp; xana  &nbsp;has no external editorial board.
                         Instead, all editorial decisions are made by a team of full-time professional editors.
                         Information about the scientific background of&nbsp;<a
-                            href="for editorial board member.html">the editors</a>&nbsp;may be found here.
+                            href="about_the_editor.php">the editors</a>&nbsp;may be found here.
                     </p>
                     <h2>Journal Staff</h2>
-                    <p>A full list of <em> xana  </em>'s staff can be found&nbsp;<a
-                            href="journal staff.html">here</a>.</p>
+                    <p>A full list of  xana 's staff can be found&nbsp;<a
+                            href="journal_staff.php">here</a>.</p>
                     <h2 id="contact">Contact</h2>
-                    <p class="norm"><a href="contact us.html">Contact</a>&nbsp;provides
+                    <p class="norm"><a href="contact_us.php">Contact</a>&nbsp;provides
                         contact details for editorial, subscription, librarian and advertising departments.</p>
-                    <h2>History of the Journal <em> xana  </em></h2>
+                    <h2>History of the Journal  xana </h2>
                     <p>History of the
                             Journal&nbsp; xana  &nbsp;has specially commissioned essays and videos, and timelines and
                         an interactive forum, bringing to life the science published in  xana   since 1869.</p>

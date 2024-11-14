@@ -17,6 +17,7 @@
 
 .text-content {
     text-align: center;
+    margin: 0 auto;
 }
 
 .box1 .button1{
@@ -24,7 +25,6 @@
     width: 161px;
     background-color: #006699;
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     border: none;
     margin-top: 10px;
@@ -36,7 +36,6 @@
     width: 133px;
     background-color: #3b3b3b;
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     border: none;
     margin-top: 10px;
@@ -46,7 +45,7 @@
 }
        .box1 img{
           height: auto;
-          width: 350px;
+          width: 450px;
           margin-left: 25px;
           margin-top: 8px;
         }

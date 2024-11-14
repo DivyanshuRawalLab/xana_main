@@ -13,7 +13,7 @@
 
 <div class="container text-justify my-5"> 
   <h1 id="springer- xana  -press-office">XANA Press Office</h1>
-  <p style="margin-top: 20px;">Please visit the <a href="press office.html">Xana Press Office Site</a> for an archive of Xana press <br> releases (2024) and contact information for corporate media inquiries and book or </p>
+  <p style="margin-top: 20px;">Please visit the <a href="press_office.php">Xana Press Office Site</a> for an archive of Xana press <br> releases (2024) and contact information for corporate media inquiries and book or </p>
   <p>journal related inquiries.</p>
   <p style="margin-top: 50px;">Press releases published&nbsp;before 2015 are available&nbsp;by downloading zip files via the links below.</p>
   <p style="margin-top: 50px;">Press release archives (zip): <a href="#">2020</a> | <a href="#">2021</a> | <a href="#">2022</a> | <a href="#">2023</a> | <a href="#">2024</a></p>
@@ -21,11 +21,11 @@
   <p style="margin-top: 10px;">Director of Communications and Engagement, Research</p>
   <p style="margin-top: 10px;">London, UK</p>
   <p  style="margin-top: 10px;"> Phone: +44 (0)203 426 3325</p>
-  <p style="margin-top: 10px;">E-mail:&nbsp;<a href="#">susie.winter@springer xana  .com</a></p>
+  <p style="margin-top: 10px;">E-mail:&nbsp;<a href="#">xana@gmail.com</a></p>
   <p style="margin-top: 50px;margin-left:600px;"><a href="#top">Top of page ⤴</a></p>
   <h2 style="margin-top: 50px;">Journals and Editorial Press Office</h2>
-  <p style="margin-top: 20px;">The <a href="#">Journals and Editorial&nbsp;Press Office</a> provides a service for science journalists and science <br> writers.</p>
-  <p style="margin-top: 30px;">For enquiries regarding content in the  xana   Portfolio journals, please <br> contact&nbsp;<a href="#">press@ xana  .com</a>&nbsp;or visit&nbsp;<a href="#">https://press. xana  .com</a>.</p>
+  <p style="margin-top: 20px;">The <a href="journals.php">Journals and Editorial&nbsp;Press Office</a> provides a service for science journalists and science <br> writers.</p>
+  <p style="margin-top: 30px;">For enquiries regarding content in the  xana   Portfolio journals, please <br> contact&nbsp;<a href="press_office.php">press_office@xana.com</a>&nbsp;or visit&nbsp;<a href="press_office.php">press_office.php</a>.</p>
   <h2 style="margin-top: 50px;"><strong>Michael Stacey</strong></h2>
   <p style="margin-top: 10px;">Head of Communications, Journals</p>
     <p style="margin-top: 10px;">London, UK </p>

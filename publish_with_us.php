@@ -12,6 +12,7 @@
        <?php include("header.php"); ?>
 
     <div class="container my-5">
+        <h1 class="text-center mb-2">Why Publish With Us</h1>
        <div class="">
 			<h2 class="heading1">Benefits of publishing with us</h2>
 			<p class="">We pride ourselves on providing a supportive and accessible service for our authors throughout<br> the publishing process. Over one million authors have chosen to publish with us over the past 15 <br>years because of the service and results we deliver:</p>

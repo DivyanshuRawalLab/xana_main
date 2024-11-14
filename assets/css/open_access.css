@@ -42,7 +42,6 @@ a:hover {
 }
 body {
     min-height: 100%;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     line-height: 1.76;
     color: #222;
     background: #eee
@@ -596,15 +595,6 @@ body {
     vertical-align: top
 }
 
-@font-face {
-    font-family: "npg-stix-regular";
-    src: url(/static/fonts/npg-stix-regular-a606c0f6d2.woff) format("woff");
-    font-display: swap
-}
-
-.stix {
-    font-family: "npg-stix-regular"
-}
 
 .txt,
 input[type=search].txt {
@@ -1626,12 +1616,6 @@ input[type=search].txt {
     }
 }
 
-.optanon-alert-box-body p,
-.optanon-alert-box-body p a,
-.optanon-alert-box-wrapper .optanon-button-more .optanon-alert-box-button-middle a {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
-}
-
 .optanon-alert-box-body p a {
     color: #fff;
     text-decoration: underline
@@ -1794,7 +1778,7 @@ input[type=search].txt {
     background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIiBjbGFzcz0idWlsLXJpbmciPjxwYXRoIGNsYXNzPSJiayIgZD0iTTAgMGgxMDB2MTAwaC0xMDB6IiBmaWxsPSJub25lIi8+PGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iNDIuNSIgc3Ryb2tlLWRhc2hhcnJheT0iMjEzLjYyODMwMDQ0NDEwNTk1IDUzLjQwNzA3NTExMTAyNjQ3IiBzdHJva2U9IiM1YTVhNjIiIHN0cm9rZS13aWR0aD0iMTUiIGZpbGw9Im5vbmUiLz48L3N2Zz4=), none;
     background-repeat: no-repeat;
     background-position: 50% 50%;
-    webkit-animation: spin running 1s infinite linear;
+    --webkit-animation: spin running 1s infinite linear;
     animation: spin running 1s infinite linear
 }
 
@@ -1836,7 +1820,6 @@ input[type=search].txt {
 h1,
 h2 {
     font-weight: 700;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
 }
 
 .c-hero__title,
@@ -1875,7 +1858,6 @@ h4,
 h5,
 h6 {
     font-weight: 700;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     font-size: 1.25rem;
     font-size: min(max(1.125rem, 3vw), 1.25rem);
     line-height: 1.4rem
@@ -2044,7 +2026,6 @@ html ::before {
 
 .c-ad__label {
     font-size: .875rem;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     font-weight: 400;
     margin-bottom: 4px;
     color: #333;
@@ -2056,7 +2037,6 @@ html ::before {
     margin: 0;
     padding: 0;
     font-size: 1rem;
-    font-family: inherit;
     color: #6f6f6f;
     line-height: inherit
 }
@@ -2099,7 +2079,6 @@ html ::before {
     border-bottom: 0;
     background-color: #fff;
     padding: 8px 24px;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     font-size: 1rem;
     margin: 0 auto;
     position: relative;
@@ -2172,7 +2151,6 @@ html ::before {
     margin: 0;
     padding: 0;
     font-size: 1rem;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     color: #000
 }
 
@@ -2440,7 +2418,6 @@ svg.c-breadcrumbs__chevron {
 
 .c-footer {
     background: linear-gradient(to bottom,#2450aa,#1884df);;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     padding-top: 32px;
     padding-bottom: 32px;
     line-height: 1.15
@@ -2497,7 +2474,6 @@ button.c-footer__link {
     border: 0;
     padding: 0;
     background: 0 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
 }
 
 .c-footer__list {
@@ -2552,7 +2528,6 @@ button.c-footer__link {
     color: #fff;
     margin-bottom: 16px;
     font-weight: 700;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
 }
 
 .c-footer__heading--visually-hidden {
@@ -2607,7 +2582,6 @@ button.c-footer__link {
 }
 
 .c-list-description {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     font-size: 1rem;
     line-height: 1.4;
     margin-bottom: 0;
@@ -2677,7 +2651,6 @@ button.c-footer__link {
     margin: 0;
     padding: 0;
     font-size: 1rem;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     display: flex;
     line-height: 1.3
 }
@@ -2756,7 +2729,6 @@ button.c-footer__link {
     list-style: none;
     margin: 0;
     padding: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     font-size: .875rem;
     line-height: 1.4
 }
@@ -2842,7 +2814,6 @@ button.c-footer__link {
     position: relative;
     text-decoration: none;
     width: auto;
-    font-family: sans-serif;
     font-size: 1rem;
     line-height: 1.3;
     justify-content: center;
@@ -2892,7 +2863,6 @@ button.c-footer__link {
     margin: 0;
     position: relative;
     width: auto;
-    font-family: sans-serif;
     font-size: 1rem;
     line-height: 1.3;
     justify-content: center;
@@ -2983,7 +2953,6 @@ button.c-footer__link {
 
 .c-skip-link,
 .js .c-popup {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     position: absolute
 }
 
@@ -3078,7 +3047,6 @@ button.c-footer__link {
 .c-status-message {
     display: flex;
     align-items: center;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     font-size: 1rem;
     position: relative;
     width: 100%
@@ -3097,7 +3065,6 @@ button.c-footer__link {
 }
 
 .c-status-message__heading {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     font-size: 1rem;
     font-weight: 700
 }
@@ -3370,7 +3337,6 @@ button.c-footer__link {
     display: inline-block;
     line-height: 1.4;
     font-size: 1.25rem;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     font-weight: 400;
     margin-bottom: 8px
 }
@@ -3435,7 +3401,6 @@ button.c-footer__link {
     margin: 0;
     position: relative;
     text-decoration: none;
-    font-family: sans-serif;
     font-size: 1rem;
     justify-content: center;
     transition: .25s ease, color .25s ease, border-color .25s ease;
@@ -4157,15 +4122,7 @@ a:hover .journal-tool-caption {
     clip: rect(1px, 1px, 1px, 1px)
 }
 
-.c-site-messages--nature-briefing-email-variant .serif,
-.c-site-messages--nature-briefing-email-variant.serif {
-    font-family: "Harding", "Palatino", "Times", "Times New Roman", serif
-}
 
-.c-site-messages--nature-briefing-email-variant .sans-serif,
-.c-site-messages--nature-briefing-email-variant.sans-serif {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif
-}
 
 .c-site-messages--nature-briefing-email-variant .content {
     max-width: 1280px;
@@ -5217,7 +5174,6 @@ a:hover .journal-tool-caption {
 }
 
 .guided-oa__sub-heading {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     line-height: 1.1;
     margin-bottom: 8px
 }
@@ -5473,7 +5429,6 @@ a:hover .journal-tool-caption {
     bottom: 0;
     left: 0;
     right: 0;
-    font-family: "Daytona W01 Regular", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif
 }
 
 @media only screen and (min-width:641px) {
@@ -6002,7 +5957,6 @@ a.app-author-services-banner__button:visited {
     border-bottom: 1px solid #222;
     border-top: 6px solid #222;
     color: #222;
-    font-family: serif;
     font-size: 1.5rem;
     font-weight: 700;
     line-height: 1em;
@@ -6349,7 +6303,6 @@ a.app-author-services-banner__button:visited {
 }
 
 .filter-accordion .filter-btn {
-    font-family: "Palatino", "Times", "Times New Roman", serif;
     font-size: 1.125rem;
     padding-top: 9px;
     padding-bottom: 9px;
@@ -6811,7 +6764,6 @@ a.app-author-services-banner__button:visited {
     font-size: 1.0625rem;
     display: block;
     margin-bottom: 8px;
-    font-family: serif;
     color: #fff
 }
 
@@ -7059,7 +7011,6 @@ a:hover .attachment-title {
 }
 
 .app-promo-text {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
 }
 
 .app-promo-text>.jflow-table:last-of-type {
@@ -7154,7 +7105,6 @@ a:hover .attachment-title {
     background: #999;
     font-size: 9px;
     line-height: 13px;
-    font-family: "arial", sans-serif;
     text-transform: uppercase;
     position: absolute;
     word-spacing: 0;
@@ -7175,10 +7125,6 @@ a:hover .attachment-title {
     writing-mode: vertical-lr
 }
 
-.native-ad,
-.native-ad__title {
-    font-family: "Georgia"
-}
 
 .native-ad__title {
     font-weight: 400
@@ -8194,8 +8140,7 @@ a:hover .attachment-title {
     margin-top: auto
 }
 
-.app-native-ad {
-    font-family: "Georgia"
+
 }
 
 .app-native-ad .c-card {
@@ -8553,7 +8498,6 @@ a:hover .attachment-title {
 .app-volumes-cover__image-copy-text {
     margin: 0;
     color: #666;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif
 }
 
 .app-toc {
@@ -8662,7 +8606,6 @@ a:hover .attachment-title {
     position: relative;
     text-decoration: none;
     width: auto;
-    font-family: sans-serif;
     font-size: 1rem;
     line-height: 1.3;
     justify-content: center;
@@ -9464,7 +9407,7 @@ a.featured-article:hover h3 {
 }
 
 .u-ml-auto {
-    margin-left: auto
+    margin-left: auto;
 }
 
 .u-pa-0 {
@@ -9670,17 +9613,6 @@ a.featured-article:hover h3 {
     padding: 0
 }
 
-.u-monospace {
-    font-family: monospace
-}
-
-.u-sans-serif {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
-}
-
-.u-serif {
-    font-family: serif
-}
 
 .u-small-caps {
     font-size: .8em;

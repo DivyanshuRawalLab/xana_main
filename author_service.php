@@ -17,29 +17,7 @@
 
 <?php include("header.php"); ?>
 
-    <div class="hfeed site" id="page">
-
-        <div id="content" class="site-content">
-            <div class="ast-container">
-
-
-                <div id="primary" class="content-area primary">
-
-
-                    <main id="main" class="site-main">
-                        <article class="post-5953 page type-page status-publish category-go ast-article-single"
-                            id="post-5953" itemtype="#" itemscope="itemscope">
-
-
-                            <header class="entry-header ast-no-thumbnail ast-no-title ast-header-without-markup">
-                            </header> <!-- .entry-header -->
-
-
-                            <div class="entry-content clear" ast-blocks-layout="true" itemprop="text">
-
-
-
-                                <div class="wp-block-cover alignfull"
+<div class="wp-block-cover alignfull"
                                     style="min-height:504px;aspect-ratio:unset;aspect-ratio:unset;"><span
                                         aria-hidden="true" class="wp-block-cover__background has-background-dim"
                                         style="background-color:#656369"></span><img fetchpriority="high"
@@ -84,6 +62,30 @@
                                     </div>
                                 </div>
 
+
+    <div class="hfeed site" id="page">
+
+        <div id="content" class="site-content">
+            <div class="ast-container">
+
+
+                <div id="primary" class="content-area primary">
+
+
+                    <main id="main" class="site-main">
+                        <article class="post-5953 page type-page status-publish category-go ast-article-single"
+                            id="post-5953" itemtype="#" itemscope="itemscope">
+
+
+                            <header class="entry-header ast-no-thumbnail ast-no-title ast-header-without-markup">
+                            </header> <!-- .entry-header -->
+
+
+                            <div class="entry-content clear" ast-blocks-layout="true" itemprop="text">
+
+
+
+                                
 
 
                                 <div class="">

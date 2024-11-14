@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Author Services</title>
     <link rel="stylesheet" href="assets\css\author.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -16,6 +16,7 @@
 <body>
 
 <?php include("header.php"); ?>
+
 
 <div class="wp-block-cover alignfull"
                                     style="min-height:504px;aspect-ratio:unset;aspect-ratio:unset;"><span
@@ -41,8 +42,6 @@
                                             style="margin-top:0;margin-bottom:0"><strong>Give your work its best chance
                                                 at acceptance</strong></p>
 
-
-
                                         <p style="margin-top:0;margin-bottom:0">And save 15% !</p>
 
 
@@ -61,7 +60,6 @@
                                         </div>
                                     </div>
                                 </div>
-
 
     <div class="hfeed site" id="page">
 
@@ -88,6 +86,7 @@
                                 
 
 
+
                                 <div class="">
                                     <p class="mt-5 pera">How you present your work can have a big impact on the
                                         impression it makes on
@@ -110,7 +109,7 @@
                                                 class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
                                                 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"
                                                     style="flex-basis:50%">
-                                                    <h1 class="wp-block-heading" id="editing"> xana Research Editing
+                                                    <h1 class="wp-block-heading" id="editing"> XANA Research Editing
                                                         Service</h1>
                                                 </div>
 
@@ -165,7 +164,7 @@
                                                 <div
                                                     class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
                                                     <div class="wp-block-button class="but"><a
-                                                            class="wp-block-button__link wp-element-button" href="#">Get
+                                                            class="wp-block-button__link wp-element-button" href="#" style="margin-top:17px;">Get
                                                             English Language Editing</a></div>
                                                 </div>
                                             </div>
@@ -204,7 +203,7 @@
                                             <div
                                                 class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
                                                 <div class="wp-block-button"><a
-                                                        class="wp-block-button__link wp-element-button" href="#">Get
+                                                        class="wp-block-button__link wp-element-button" href="#" style="padding-left:55px; padding-right:55px; margin-left:30px;">Get
                                                         Scientific Editing</a></div>
                                             </div>
                                         </div>
@@ -247,7 +246,7 @@
                                             <div
                                                 class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
                                                 <div class="wp-block-button"><a
-                                                        class="wp-block-button__link wp-element-button" href="#">Get
+                                                        class="wp-block-button__link wp-element-button" href="#" style="padding-left:55px; padding-right:55px; margin-left:20px">Get
                                                         Scientific Editing</a></div>
                                             </div>
                                         </div>
@@ -266,7 +265,7 @@
                                         class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-4 wp-block-columns-is-layout-flex">
                                         <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"
                                             style="flex-basis:50%">
-                                            <h3 class="wp-block-heading">XANO Services</h3>
+                                            <h3 class="wp-block-heading">XANA Services</h3>
                                         </div>
 
 
@@ -321,7 +320,7 @@
                                                                 class="uagb-buttons-repeater wp-block-button__link"
                                                                 aria-label="" href="#" rel="follow noopener"
                                                                 target="_self" role="button">
-                                                                <div class="uagb-button__link">Get Translation</div>
+                                                                <div class="uagb-button__link" style="padding-left:60px; padding-right:60px;">Get Translation</div>
                                                             </a></div>
                                                     </div>
                                                 </div>
@@ -379,8 +378,22 @@
                                 </div>
 
 
+                            </div><!-- .entry-content .clear -->
 
-                                <div class="wp-block-cover alignfull"
+
+
+                        </article><!-- #post-## -->
+
+                    </main><!-- #main -->
+
+
+                </div><!-- #primary -->
+
+
+            </div> <!-- ast-container -->
+        </div>
+
+        <div class="wp-block-cover alignfull"
                                     style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:var(--wp--preset--spacing--50);padding-bottom:0;padding-left:var(--wp--preset--spacing--50) ">
                                     <span aria-hidden="true"
                                         class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img
@@ -404,9 +417,8 @@
                                         src="assets/img/night.jpg">
                                     <div
                                         class="wp-block-cover__inner-container is-layout-flow wp-container-core-cover-is-layout-2 wp-block-cover-is-layout-flow">
-                                        <h3
-                                            class="wp-block-heading has-ast-global-color-0-color has-text-color has-link-color wp-elements-9c4d257490b6bc17d2bb41517b5ff326 ">
-                                            Why xana Author Services?</h3>
+                                        <h3 style="color:white;">
+                                            Why XANA Author Services?</h3>
 
 
 
@@ -461,23 +473,6 @@
                                         </div>
                                     </div>
                                 </div>
-
-
-
-                            </div><!-- .entry-content .clear -->
-
-
-
-                        </article><!-- #post-## -->
-
-                    </main><!-- #main -->
-
-
-                </div><!-- #primary -->
-
-
-            </div> <!-- ast-container -->
-        </div>
 
 
  

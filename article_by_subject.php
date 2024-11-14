@@ -15,16 +15,16 @@
 <div role="main" id="content" class="position-relative z-index-1 background-gray-light" data-test="sites- xana  ">
 <br>
     <div role="main" id="content" class="position-relative" >
-        <div id="top-item" class="container cleared" data-container-type="hero">
-            <div class="hero--journal hero-1 contrast-text clear" data-track="click" data-track-source="main-image">
-                <div class="hero-image-wrapper composite-layer" >
+        <div id="top-item" data-container-type="hero" style="width:100%; background:url('assets/img/subjects-hero.jpg'); opacity:0.8;" >
+            <div data-track="click" data-track-source="main-image">
+                <div class="hero-image-wrapper composite-layer" style="width:100%;" >
                     <div class="hero-image-fadeout">
-                        <img src="assets/images/free_vector_dna.jpeg" style="width:1600px; height:400px"  alt="">
+                        <img src="assets/img/free_vector_dna.jpeg" style="width:1600px; height:400px"  alt="">
                     </div>
                 </div>
-                <div class="content hero-content pr20 pl20 cleared">
+                <div class="content hero-content pr20 pl20 cleared" style="margin-left:20px;">
                     <div class="grid grid-6 mq875-grid-7 mq640-grid-9 hero-text-wrapper">
-                        <div class="pa20 mq640-pt10 mq640-pb10 background-gray-dark-translucent">
+                        <div class="pa20 mq640-pt10 mq640-pb10 background-gray-dark-translucent" style="color:white;">
                             <h1 class="hero-title">
                                 <span class="hero-title-inner">Latest research and news by subject</span></h1>
                             <p class="hero-summary ma0 mt15">Learn about the latest research, reviews and news

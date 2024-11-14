@@ -17,11 +17,11 @@
     
     <div class="container my-5">
         <div class="child2">
-			<h2 class="heading1">For Editorial Board Members</h2>
-			<h5 class="my-3">Welcome to the For Editorial Board Members page. This page provides links to resources that will support you in your role for the journal. We recommend bookmarking these links in your browser for future reference. </h5>
+			<h4 class="heading1">For Editorial Board Members</h4>
+			<p class="my-3">Welcome to the For Editorial Board Members page. This page provides links to resources that will support you in your role for the journal. We recommend bookmarking these links in your browser for future reference. </p>
 		</div>
 			  <h4 class="heading3">XANA Series Editorial Community Site</h4>
-			  <h5 class="my-3"><em>For training, guidance and resources</em></h5>
+			  <p class="my-3"><em>For training, guidance and resources</em></p>
 		<nav class="navbar7">
 			<div>
 				<ul>
@@ -30,7 +30,7 @@
 			</div>
 		</nav>
 		<h4 class="heading4">Accessing your Editorial Board Member account in our submission systems</h4>
-		<h5 class="head3"><em>To manage submissions you are handling through peer review</em></h5>
+		<p class="head3"><em>To manage submissions you are handling through peer review</em></p>
 		<nav class="navbar8">
 			<div>
 				<ul>
@@ -40,7 +40,7 @@
 			</div>
 		</nav>
 			<h4 class="heading4">Editorial Responsibilities and FAQs</h4>
-		<h5 class="head3"><em>For information on your responsibilities, expectations and benefits</em></h5>
+		<p class="head3"><em>For information on your responsibilities, expectations and benefits</em></p>
 		<nav class="navbar8">
 			<div>
 				<ul>
@@ -49,7 +49,7 @@
 			</div>
 			</nav>
 			<h4 class="heading4">XANA Code of Conduct for Editors</h4>
-			<h5 class="head3"><em>The code of conduct you have agreed to adhere to when handling manuscripts on behalf of the<br> journal</em></h5>
+			<p class="head3"><em>The code of conduct you have agreed to adhere to when handling manuscripts on behalf of the<br> journal</em></p>
 			<nav class="navbar8">
 				<div>
 				<ul>

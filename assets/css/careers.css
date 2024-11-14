@@ -17,18 +17,22 @@
       }
       
     .career1{
+  
       width: 550px;
       background-color: #333;
       color: white;
       font-size: 18px;
       padding-top: 20px;
+      padding: 3%;
       /* padding-left: 20px; */
     }
     .career2{
+      margin: 0 auto;
       height: 50px;
       width: 90%;
      display: flex;
      margin-top: 100px;
+  
      gap: 15px;
     }
     .career-search{
@@ -63,10 +67,12 @@
     }
     .Browse1{
       height: 600px;
-      width: 800px;
+      width: 30%;
+      margin-left: 5%;
     }
     .Browse2{
-      width: 480px;
+      margin-left: 10%;
+      width: 70%;
       background-color: #f2f2f2;
     }
     .Browse1-hr{
@@ -111,10 +117,16 @@
       width: 100%;
     }
     .image{
-      height: 100px;
+      height: 150px;
       width: 200px;
       margin-top: 0px;
       margin-left: 0px;
+    }
+    #c41{
+      margin: 0 auto;
+    }
+    #c42{
+      margin: 0 auto;
     }
     .career4{
       width: 100%;
@@ -124,6 +136,7 @@
       margin-bottom: 10px;
     }
     .career4-1{
+      padding: 15px;
       width: 400px;
       background-color: #f2f2f2;
     }
@@ -131,9 +144,7 @@
       border: 1px solid rgb(0, 0, 0);
       width: 400px;
     }
-    .para{
-      margin-left: 70px;
-    }
+  
     .career4-1-btn{
       margin-top: 50px;
       margin-left: 200px;

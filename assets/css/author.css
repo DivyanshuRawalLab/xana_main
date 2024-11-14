@@ -368,7 +368,7 @@ body.rtl .has-drop-cap:not(:focus):first-letter {
 
 :where(.wp-block-post-comments-form) input:not([type=submit]), :where(.wp-block-post-comments-form) textarea {
     border: 1px solid #949494;
-    font-family: inherit;
+    
     font-size: 1em
 }
 
@@ -380,9 +380,7 @@ body.rtl .has-drop-cap:not(:focus):first-letter {
     font-weight: inherit
 }
 
-.wp-block-post-comments-form[style*=font-family] :where(.comment-reply-title) {
-    font-family: inherit
-}
+
 
 .wp-block-post-comments-form[class*=-font-size] :where(.comment-reply-title), .wp-block-post-comments-form[style*=font-size] :where(.comment-reply-title) {
     font-size: inherit
@@ -457,7 +455,7 @@ body.rtl .has-drop-cap:not(:focus):first-letter {
 }
 
 :where(.wp-block-search__input) {
-    font-family: inherit;
+    
     font-size: inherit;
     font-style: inherit;
     font-weight: inherit;
@@ -964,7 +962,7 @@ body.rtl .has-drop-cap:not(:focus):first-letter {
 }
 
 :where(pre.wp-block-verse) {
-    font-family: inherit
+ 
 }
 
 @supports (position:sticky) {}
@@ -1062,7 +1060,7 @@ html :where(.is-position-sticky) {
 }
 
 :where(pre.wp-block-verse) {
-    font-family: inherit
+ 
 }
 
 @supports (position:sticky) {}
@@ -4050,7 +4048,7 @@ div.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color)
     border-right-width: 0px;
     border-bottom-width: 0px;
     border-left-width: 0px;
-    font-family: inherit;
+    
     font-weight: 600;
     font-size: 20px;
     font-size: 1.25rem;
@@ -4268,27 +4266,15 @@ h3.widget-title {
 
 .wp-block-button .wp-block-button__link, .wp-block-search .wp-block-search__button, body .wp-block-file .wp-block-file__button {
     border-style: solid;
-    border-top-width: 0px;
-    border-right-width: 0px;
-    border-left-width: 0px;
-    border-bottom-width: 0px;
+    border-radius: 10px;
     border-color: #006699;
     background-color: #006699;
     color: #ffffff;
-    font-family: inherit;
+    
     font-weight: 600;
-    line-height: 1em;
-    font-size: 20px;
-    font-size: 1.25rem;
-    border-top-left-radius: 0px;
-    border-top-right-radius: 0px;
-    border-bottom-right-radius: 0px;
-    border-bottom-left-radius: 0px;
-    padding-top: 20px;
-    padding-right: 20px;
-    padding-bottom: 20px;
-    padding-left: 20px;
-}
+    line-height: 0.8rem;
+    padding: 20px;
+ }
 
 .menu-toggle, button, .ast-button, .ast-custom-button, .button, input#submit, input[type="button"], input[type="submit"], input[type="reset"], #comments .submit, .search .search-submit, form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button, body .wp-block-file .wp-block-file__button, .search .search-submit, .woocommerce-js a.button, .woocommerce button.button, .woocommerce .woocommerce-message a.button, .woocommerce #respond input#submit.alt, .woocommerce input.button.alt, .woocommerce input.button, .woocommerce input.button:disabled, .woocommerce input.button:disabled[disabled], .woocommerce input.button:disabled:hover, .woocommerce input.button:disabled[disabled]:hover, .woocommerce #respond input#submit, .woocommerce button.button.alt.disabled, .wc-block-grid__products .wc-block-grid__product .wp-block-button__link, .wc-block-grid__product-onsale, [CLASS*="wc-block"] button, .woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons .button:not(.checkout):not(.ast-continue-shopping), .woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons a.checkout, .woocommerce button.button.alt.disabled.wc-variation-selection-needed, [CLASS*="wc-block"] .wc-block-components-button {
     border-style: solid;
@@ -4303,7 +4289,7 @@ h3.widget-title {
     padding-right: 20px;
     padding-bottom: 20px;
     padding-left: 20px;
-    font-family: inherit;
+    
     font-weight: 600;
     font-size: 20px;
     font-size: 1.25rem;
@@ -5203,7 +5189,7 @@ h1, .entry-content h1, h2, .entry-content h2, h3, .entry-content h3, h4, .entry-
 }
 
 .ast-builder-menu-1 {
-    font-family: inherit;
+    
     font-weight: inherit;
 }
 
@@ -5297,7 +5283,7 @@ h1, .entry-content h1, h2, .entry-content h2, h3, .entry-content h3, h4, .entry-
 }
 
 .ast-builder-menu-2 {
-    font-family: inherit;
+    
     font-weight: inherit;
 }
 
@@ -6391,16 +6377,10 @@ body {
 
 /* new css */
 
-.pera{
-    /* font-weight: bold; */
-    font-size:23px;
-    line-height:40px;
-    
-    
-}
+
 
 .why_xano{
-    font-size:20px;
+    font-size:large;
     text-transform: capitalize;
     text-align:justify;
    

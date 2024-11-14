@@ -10,6 +10,11 @@
 <body>  
 <?php include("header.php"); ?>
 
+<div class="text-white py-5 text-center" style="background-image:url(&quot;https://media.springernature.com/full/springer-cms/rest/v1/content/15086644/data/v2&quot;); padding: 120px 0;">
+    <h1>Open access agreements</h1>
+    <p>Information for authors</p>
+</div>
+
    <div class="container-fluid">
    <div class="cms-renderer-page-wrappe overflow-x-hidden px-5">
         
@@ -22,15 +27,8 @@
 <div class="core">
  
 
-<div style="background-image:url(&quot;https://media.springernature.com/full/springer-cms/rest/v1/content/15086644/data/v2&quot;);background-color:#0070a8;" id="c16818358" class="has-background-image has-background-color has-no-icon teaser teaser-stage-2 item-1 item-1-7 odd-item section even-item-custom"><div>
+<div><div>
 <div class="row row-block-grid"><div class="column"><div class="core">
-    <div class="row">
-        <div class="column small-12 large-8">
-            <div data-mh="16818358" class="text-group">
-    <div>
-        <h1 class="headline stage-headline-style-default">Open access agreements</h1>
-    </div>
-    <div class="richtext richtext-default"><p>Information for authors</p></div>
     
 </div>
         </div>

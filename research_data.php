@@ -15,9 +15,9 @@
 
 
   </div>
- <div style="height: 400px;width: 100%; margin-top: -32px; margin-bottom:2%;background:linear-gradient(to bottom,#c1e3ff,#1b778f);">
-  <h1 style="margin-left: 170px;padding-top: 200px;font-size: 50px;color: rgb(35, 35, 35);font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">Research Data</h1>
-  <h2 style="margin-left: 170px;color: rgb(35, 35, 35);">Publishing research data is as important as publishing your research in <br>journals and books</h2>
+ <div style="height: 340px;width: 100%; margin-top: -52px; margin-bottom:2%; background:url('assets/img/ai-generated-8679778_1920.png'); opacity:0.8;">
+  <h1 style="margin-left: 170px;padding-top: 80px;font-size: 50px;color: rgb(255,255,255);font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; ">Research Data</h1>
+  <h2 style="margin-left: 170px;color: rgb(255,255,255); opacity:1;">Publishing research data is as important as publishing your research in <br>journals and books</h2>
  </div>
  <h2 class="head">What are research data and why is sharing important?</h2>
  <p class="para">Research data refers to the collection of files that support your research project, study or publication such as spreadsheets, documents, images,</p>
@@ -26,9 +26,13 @@
  <p class="para">and cite you.</p>
  <p class="para" style="color: black;">The files on your desktop or USB stick may contain valuable knowledge that other researchers can learn from.</p>
  <h2 class="head">Sharing your research data helps:</h2>
- <button class="btn"><span style="color: rgb(6, 76, 188);"> &#10004;</span></button><p class="para1">Others build upon your research.</p>
- <button class="btn"><span style="color: rgb(6, 76, 188);"> &#10004;</span></button><p class="para1">Advance discovery in your discipline and contribute to the public good.</p>
- <button class="btn"><span style="color: rgb(6, 76, 188);"> &#10004;</span></button><p class="para1">Meet your funder or institutional requirements for sharing research data.</p>
+ <div class="rj">
+
+
+   <button class="btn " style="--bs-btn-padding-x: 11.75rem;"><span style="color: rgb(6, 76, 188);"> &#10004;</span></button><p class="para1">Others build upon your research.</p>
+   <button class="btn" style="--bs-btn-padding-x: 11.75rem;"><span style="color: rgb(6, 76, 188);"> &#10004;</span></button><p class="para1">Advance discovery in your discipline and contribute to the public good.</p>
+   <button class="btn" style="--bs-btn-padding-x: 11.75rem;"><span style="color: rgb(6, 76, 188);"> &#10004;</span></button><p class="para1">Meet your funder or institutional requirements for sharing research data.</p>
+ </div>
  <p class="para" style="margin-top: 40px;">It can also help <span style="color: black; font-weight: 600;">enhance your research</span> profile by gaining credit for the data you produce and <span style="color: black;font-weight: 600;">increase readership of your published work,</span> including the </p>
  <p class="para">papers and articles which your data builds on.</p>
  <div class="box1">
@@ -55,13 +59,21 @@
   <a  href="" class="anchor">Visit our institutional website</a>
   
  </div>
- <h1 class="head" style="padding-top: 20px;color: #486a7e;font-size:40px;">Research Data Community</h1>
- <div class="line" style="background-color: #d3e3ed;"></div>
- <img src="assets/img/chemist-2815640_1920.jpg" style="height: 150px;width: 250px; margin-left: 200px;margin-top: 50px;">
-  <p class="para2" style="margin-top: -100px;">Our Research Data Community is a growing forum of advocates for the sharing of research data. It is a great place</p>
-  <p class="para2">to interact with other researchers, read the latest information on research data and help advance data sharing</p>
-  <p class="para2">practices.</p>
-  <a  href="" class="anchor">Join the community</a>
+ <div class="boxy"  style="margin-bottom: 90px;">
+   <h1 class="head" style="padding-top: 20px;color: #486a7e;font-size:40px;">Research Data Community</h1>
+   <div class="line" style="background-color: #d3e3ed;"></div>
+   <img src="assets/img/chemist-2815640_1920.jpg" style="height: 150px;width: 250px; margin-left: 200px;margin-top: 50px; margin-bottom: 50px">
+   <div class="ok">
+  
+   <p class="para2" style="margin-top: -200px;">Our Research Data Community is a growing forum of advocates for the
+       sharing of research data. It is a great place to interact with other researchers, read the latest information
+        on research data and help advance data sharing practices.</p>
+    <a  href="" class="anchor" >Join the community</a>
+   </div> 
+
+
+ </div>
+ 
   <div class="box1" style="height: 400px;">
     <h1 class="head" style="padding-top: 60px;color: #486a7e;font-size:40px;">Research data policies</h1>
     <div class="line"></div>

@@ -1,0 +1,405 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+ 
+ .container1 {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 95px;
+
+  }
+  
+  .content1 {
+    margin-bottom: 10px;
+
+    color: #1b3051;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+  .authors {
+    margin-bottom: 20px;
+  }
+  
+  .authors a {
+    text-decoration: none;
+    color: blue;
+  }
+  
+  .authors a:hover {
+    text-decoration: underline;
+  }
+  
+  .publication {
+    color: #555;
+  }
+  
+  .publication a {
+    text-decoration: none;
+    color: #8e2555;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  
+  .publication a:hover {
+    text-decoration: underline;
+  }
+  
+  .keywords {
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #555;
+  }
+  
+  .keywords a {
+    text-decoration: none;
+    color: blue;
+  }
+  
+  .keywords a:hover {
+    text-decoration: underline;
+  }
+  
+  p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 55px;
+  }
+.line1{
+    height: 1px;
+    width: 650px;
+    background-color: rgb(168, 166, 166);
+    margin-left: 118px;
+}
+h2{
+    margin-left: 40px;
+    margin-left: 55px;
+}
+.content2{
+    margin-left: 55px;
+    font-size: larger;
+    font-weight: bold;
+    color: #1b3051;
+    margin-left: 118px;
+}
+
+
+.container2 {
+width: 660px;
+height: 40px;
+  background-color: #f2f2f2;
+  padding: 10px;
+  margin-left: 55px;
+  margin-top: 20px;
+}
+
+.info-icon {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  background-color: #003f8d;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+.text {
+  display: inline-block;
+  font-size: 16px;
+  color: #333;
+  margin-left: 55px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-left: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  color: #222222;
+  margin-top: 10px;
+}
+
+.paragraph {
+  margin-bottom: 10px;
+  margin-left: 60px;
+  color: #222222;
+  margin-top: 10px;
+}
+
+.formula {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-left: 60px;
+  font-weight: lighter;
+  font-family: Arial, Helvetica, sans-serif;
+color: #222222;
+}
+.paragraph2{
+  margin-bottom: 10px;
+  margin-left: 60px;
+  color: #222222;
+  margin-top: 10px;
+}
+.figure{
+  height: 900px;
+  width: 690px;
+  border: 1px solid rgb(211, 208, 208);
+  margin-left: 120px;
+}
+.figure-para{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+font-size: 18px;
+ margin-top: 20px;
+ margin-left: 10px;}
+.figure-para1{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 15px;
+  margin-left: 5px;
+}
+.figure-button{
+  margin-left: 530px;
+  margin-top: 20px;
+  border: 2px solid rgb(174, 197, 206);
+  height: 40px;
+  background-color: white;
+  width: 140px;
+  border-radius: 20px;
+  color: #003f8d;
+  font-weight: bolder;
+}
+.model{
+  margin-left: 120px;
+  color: #222222;
+  margin-top: 10px;
+  font-size: x-large;
+}
+#contain1{
+  height: 80px;
+  margin-left: 0px;
+}
+#Publish{
+  font-size:larger;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman' , serif;
+   background-color: #1884df; 
+   color: white;
+    border: none;
+}
+.Publish{
+  font-size:15px; 
+  background-color: white;
+  color: black;
+   
+}
+#Journals{
+  font-size:larger;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman' , serif;
+   background-color: #1884df; 
+   color: white;
+    border: none;
+}
+.Journals{
+  font-size:15px; 
+  background-color: white;
+  color: black;
+   
+}
+#Explore-Content{
+  font-size:larger;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman' , serif;
+   background-color: #1884df; 
+   color: white;
+    border: none;
+}
+.Explore-Content{
+  font-size:15px; 
+  background-color: white;
+  color: black;
+   
+}
+#Multimedia{
+  font-size:larger;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman' , serif;
+   background-color: #1884df; 
+   color: white;
+    border: none;
+}
+.Multimedia{
+  font-size:15px; 
+  background-color: white;
+  color: black;
+   
+}
+#Events{
+  font-size:larger;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman' , serif;
+   background-color: #1884df; 
+   color: white;
+    border: none;
+}
+.Events{
+  font-size:15px; 
+  background-color: white;
+  color: black;}
+
+  #About{
+    font-size:larger;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman' , serif;
+     background-color: #1884df; 
+     color: white;
+      border: none;
+  }
+  .About{
+    font-size:15px; 
+    background-color: white;
+    color: black;}
+    .search {
+      width: 100%;
+      position: relative;
+      display: flex;
+      }
+        /*Resize the wrap to see the search bar change!*/
+        .wrap{
+        width: 18%;
+        position: absolute;
+        bottom: 84%;
+        left: 85%;
+        transform: translate(-50%, -50%);
+        padding-top: 70px;
+        }
+        .box4{
+          height: 1px;
+          width: 1518px;
+          background-color:rgb(155, 153, 153);
+        }
+        .box3{
+ 
+          height: 40px;
+          width: 1518px;
+        }
+        .paragraph4{
+          margin-bottom: 10px;
+          margin-left: 121px;
+          color: #222222;
+          margin-top: 10px;
+          font-size: 17px;
+        }
+        .figure-para2{
+          font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+          font-weight: bold;
+          font-size: 18px;
+           margin-top: 20px;
+           margin-left: 10px;
+
+        }
+        .figure2{
+          height: 1320px;
+          width: 730px;
+          border: 1px solid rgb(211, 208, 208);
+          margin-left: 120px;
+        }
+       
+        .paragraph5{
+          margin-bottom: 10px;
+          margin-left: 121px;
+          color: #222222;
+          margin-top: 10px;
+          font-size:17px ;
+        }
+        .model2{
+          margin-left: 120px;
+          color: #222222;
+          margin-top: 20px;
+          font-size: x-large;
+        }
+        .paragraph6{
+          margin-bottom: 10px;
+          margin-left: 121px;
+          color: #222222;
+          margin-top: 10px;
+          font-size: 17px;
+        }
+        .model3{
+          margin-left: 120px;
+          color: #222222;
+          margin-top: 25px;
+          font-size: x-large;
+        }
+        .tab {
+          overflow: hidden;
+          background-color: #f1f1f1;
+          width: 350px;
+          height: 300px;
+          margin-left: 1050px;
+          margin-top: -700px;
+        }
+        
+        .tab button {
+          background-color: inherit;
+          float: left;
+          display: block;
+          color: black;
+          padding: 14px 16px;
+          text-align: center;
+          text-decoration: none;
+          font-size: 17px;
+          border: none;
+          outline: none;
+          transition: background-color 0.3s;
+          cursor: pointer;
+        }
+        
+        .tab button:hover {
+          background-color: #ddd;
+        }
+        
+        .tab button.active {
+          background-color: #ccc;
+        }
+        
+        .tabcontent {
+          display: none;
+          padding: 6px 12px;
+          border: 0px solid #ccc;
+          border-top: none;
+          width: 363px;
+          height: 269px;
+          margin-top: -200px;
+          margin-left: 700px;
+        }
+        .scrollbar-container {
+          margin-left: 110px;
+          margin-top: 100px;
+        }
+        
+        .scrollbar-content {
+          margin-left: -110px;
+          margin-top: -74px;
+        }
+        .box1 {
+          overflow: hidden;
+          background-color: #bfa3a3;
+          width: 350px;
+          height: 300px;
+          margin-left: 1050px;
+          margin-top: 0px;
+        }
+        

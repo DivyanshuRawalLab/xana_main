@@ -1,258 +1,206 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Article</title>
- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
- <link rel="stylesheet" href="assets/css/styles.css">
-
+    <link rel="stylesheet" href="assets/css/articles.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <title>Document</title>
 </head>
 
-
+<body>
 <?php include("header.php"); ?>
-
-  <div class="container">
-      <h1 class="article text-center my-5">Articles</h1>
-      
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5"><a href="">Full Text</a></button>
-        <button class="btn5"><a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5">> <a href="">Full Text</a></button>
-        <button class="btn5">> <a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5"><a href="">Full Text</a></button>
-        <button class="btn5"><a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5"><a href="">Full Text</a></button>
-        <button class="btn5"><a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5">> <a href="">Full Text</a></button>
-        <button class="btn5">> <a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5">> <a href="">Full Text</a></button>
-        <button class="btn5">> <a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5">> <a href="">Full Text</a></button>
-        <button class="btn5">> <a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5">> <a href="">Full Text</a></button>
-        <button class="btn5">> <a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5">> <a href="">Full Text</a></button>
-        <button class="btn5">> <a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5"><a href="">Full Text</a></button>
-        <button class="btn5"><a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5"><a href="">Full Text</a></button>
-        <button class="btn5"><a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5"><a href="">Full Text</a></button>
-        <button class="btn5"><a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5"><a href="">Full Text</a></button>
-        <button class="btn5"><a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5"><a href="">Full Text</a></button>
-        <button class="btn5"><a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5"><a href="">Full Text</a></button>
-        <button class="btn5"><a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5"><a href="">Full Text</a></button>
-        <button class="btn5"><a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5"><a href="">Full Text</a></button>
-        <button class="btn5"><a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5"><a href="">Full Text</a></button>
-        <button class="btn5"><a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5"><a href="">Full Text</a></button>
-        <button class="btn5"><a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5"><a href="">Full Text</a></button>
-        <button class="btn5"><a href="">PDF</a></button>
-      </div>
-      <hr>
-      <h5 class="berolecmi"><a href="">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</a></h5>
-      <h5 class="berolecmi1">Circular RNA (CircRNA)–microRNA (miRNA) interaction (CMI) is an important model for the regulation of biological processes by non-coding RNA (ncRNA), which provides a new perspective for the study of human com...</h5>
-      <h5 class="berolecmi2">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</h5>
-      <h5 class="berolecmi1"><em>Xana Bioinformatics </em>2024 25:264</h5>
-      <h5 class="berolecmi1">Research | Published on: 10 August 2024</h5>
-      <div class="btn4">
-        <button class="btn5"><a href="">Full Text</a></button>
-        <button class="btn5"><a href="">PDF</a></button>
-      </div>
-     
-      <div class="container-smile">
-        <div class="feedback-box">
-          <h2 class="feedback-header">How was your experience today?</h2>
-          <div class="feedback-options">
-            <div class="feedback-option" data-value="bad">
-              <i class="far fa-frown"></i>&#128542;
-            </div>
-            <div class="feedback-option" data-value="ok">
-              <i class="far fa-meh"></i>&#128528;
-            </div>
-            <div class="feedback-option" data-value="good">
-              <i class="far fa-smile"></i>&#128578;
-            </div>
-            <div class="feedback-option" data-value="great">
-              <i class="far fa-grin"></i>&#128515;
-            </div>
-          </div>
-          <button class="feedback-button">Send feedback</button>
+       <div class="scrollbar-container">
+        <div class="scrollbar-content">
+    <div class="container1">
+        <h1 class="content1">AFITbin: a metagenomic contig binning method using aggregate /-mer frequency based on
+            initial and terminal nucleotides</h1>
+        <div class="authors">
+            <a href="#">Amin Darabi</a>, <a href="#">Sayeh Sobhani</a>, <a href="#">Rosa Aghdam</a> & <a
+                href="#">Changiz Eslahchi</a>
         </div>
-      </div>
+        <div class="publication">
+            <a href="#"><em>XANA Bioinformatics</em></a> 25, Article number: 241 (2024) | <a href="#">Cite this
+                article</a>
+        </div>
+        <div class="keywords">
+            <a href="#">Metrics</a>
+        </div>
     </div>
-   
- <?php include("footer.php"); ?>
+    <p class="content2">Abstract</p>
+    <div class="line1"></div>
+
+    <div class="paragraph">
+        <h2>Background</h2>
+        <p>Using next-generation sequencing technologies, scientists can sequence complex microbial <br> communities
+            directly from the environment. Significant insights into the structure, diversity, <br> and ecology of
+            microbial communities have resulted from the study of metagenomics. The <br> assembly of reads into longer
+            contigs, which are then binned into groups of contigs that <br> correspond to different species in the
+            metagenomic sample, is a crucial step in the analysis of <br> metagenomics. It is necessary to organize
+            these contigs into operational taxonomic units <br> (OTUs) for further taxonomic profiling and functional
+            analysis. For binning, which is <br> synonymous with the clustering of OTUs, the tetra-nucleotide frequency
+            (TNF) is typically <br> utilized as a compositional feature for each OTU.</p>
+        <h2>Results</h2>
+        <p>In this paper, we present AFIT, a new l-mer statistic vector for each contig, and AFITBin, a <br> novel
+            method for metagenomic binning based on AFIT and a matrix factorization method. To <br> evaluate the
+            performance of the AFIT vector, the t-SNE algorithm is used to compare species <br> clustering based on AFIT
+            and TNF information. In addition, the efficacy of AFITBin is <br> demonstrated on both simulated and real
+            datasets in comparison to state-of-the-art binning <br>methods such as MetaBAT 2, MaxBin 2.0, CONCOT,
+            MetaCon, SolidBin, BusyBee Web, <br> and MetaBinner. To further analyze the performance of the purposed AFIT
+            vector, we compare the <br> barcodes of the AFIT vector and the TNF vector.
+        </p>
+
+        <h2>Conclusion</h2>
+        <p>The results demonstrate that AFITBin shows superior performance in taxonomic <br> identification compared to
+            existing methods, leveraging the AFIT vector for improved results <br> in metagenomic binning. This approach
+            holds promise for advancing the analysis of <br> metagenomic data, providing more reliable insights into
+            microbial community composition <br> and function.</p>
+        <div class="container2">
+            <div class="info-icon"><strong>i</strong></div>
+            <div class="text"> <a href="">Peer Review reports</a></div>
+            <hr>
+        </div>
+        <div class="title">AFIT: a novel composition vector</div>
+
+        <div class="paragraph">Due to the fact that a DNA sequence consists of two strings, one of which is the
+            complement of <br> the other, we group all 2-mers into ten classes, Ti, 1 ≤ i ≤ 10, of 2-mers and their<br>
+            complements. Four 2-mers AT, CG, GC, and TA are palindromes (their complements are equal <br> to
+            themselves).
+            Therefore six classes are of size two, and four are of size 1 (Fig. 1). This study <br> proposes a vector
+            for
+            calculating the repetition frequency of substrings of length between 2 <br> and 10 using only their initial
+            and
+            terminal nucleotides. A substring of size I is in class<em>T₁</em> if the <br> 2-mer generated by its
+            initial and
+            terminal nucleotides belongs to T. For a contig Z, we <br> consider all its substrings of size 1, 2 ≤ k ≤
+            10. Let
+            aki denote the number of substrings of size <br> I which belong to bin T. AFIT vector corresponds to contig
+            Z
+            defined as follows:</div>
+
+        <div class="formula">AFITZ = (a2,1, a2,2,..., a10,10)</div>
+        <p class="paragraph2">By this method, we aggregate a contig’s l-mer frequencies based on their initial and terminal <br> nucleotides to
+            a vector (AFIT vector) of size 90. <br>
+
+            The rationale for this approach is to overcome limitations seen in traditional methods that rely <br> on k-mer
+            frequencies when binning metagenomic data. Typically, the short sizes of reads and <br> contigs provided for
+            metagenomic problems create constraints when utilizing k-mers. The <br> utilization of k-mer frequencies to
+            construct a composition vector results in an enlarged vector <br> size, particularly noticeable with larger
+            k-mers, leading to sparsity in the composition vector <br> for each contig. Specifically, in metagenomic data
+            analysis, numerous k-mers may be absent in <br> a given contig or might exist with very low frequencies.
+            Consequently, these zero or low- <br>frequency components may not significantly contribute to the overall pattern
+            or composition <br> of the DNA sequence. To tackle this challenge, the AFIT approach aggregates k-mer <br> information
+            into equivalent classes based on their initial and terminal nucleotides. Its primary <br>objective is to address
+            the abundance of zero or low-frequency components within the vector.<br> Consequently, reducing sparsity and the
+            overall size of the composition vector results in a<br> more appropriate representation. Additionally, the AFIT
+            vector encapsulates detailed <br>information concerning substring compositions ranging from 2 to 10 nucleotides.
+            By<br> emphasizing similar information through grouping, its purpose is to enhance the<br> representation and
+            comprehension of the structural characteristics and composition of the<br> DNA sequence. It is notable to
+            mention that a similar approach was used for the prediction of<br> mRNA sub-cellular localization [27], showing
+            that the proposed AFIT vector provides useful<br> information on DNA sequences.</p>
+    </div>
+    <div class="figure">
+        <p class="figure-para">Fig 1.</p>
+        <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12859-024-05859-7/MediaObjects/12859_2024_5859_Fig1_HTML.png?as=webp">
+        <p class="figure-para1">All possible 2-mers and their complements, the palindrome strings are colored red</p>
+        <button class="figure-button">Full size image ></button>
+    </div>
+    <div class="model">Model setup</div>
+    <p class="paragraph4">In this section, we discuss AFITBin’s approach to the metagenomic contig binning
+        challenge. <br> As previously stated, most binning methods depend on similarity metrics between contigs <br>
+        based on
+        l-mers frequency distributions. In this paper, we presented a new approach for <br> generating the composition
+        vector that outperforms prior methods based on l-mer counts, <br> such as the TNF vector. Figure 2 depicts the
+        AFITBin processing pipeline. Each step will be <br> explained in detail in the following subsections. AFITBin
+        utilizes two distinct genomic <br> features, the AFIT vector and the coverage distance of contigs, in order to
+        obtain the genomic <br> bins. This is achieved through matrix factorization and solving an optimization problem.
+        In <br> two phases, this algorithm assigns contigs to their predetermined bins. First, contigs shorter <br> than
+        a
+        predetermined length threshold are set aside, while the remaining contigs are assigned <br> to bins based on the
+        methodology explained in this section. Subsequently, the shorter contigs <br> are assigned to their respective
+        bins using a slightly different approach.</p>
+    <div class="figure2">
+        <p class="figure-para2">Fig 2.</p>
+        <img
+            src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12859-024-05859-7/MediaObjects/12859_2024_5859_Fig2_HTML.png?as=webp" style="margin-left: 20px;">
+        <p class="figure-para1">The overview of AFITBin pipeline. This figure shows a visual representation of AFITBin’s
+            workflow, <br> highlighting key steps involved in the process of contig binning. First, the AFIT Matrix and
+            Coverage <br> Matrix are built. The number of bins is determined using the K-means algorithm. The short
+            contigs<br>
+            are set aside, and the bins are created. The short contigs are  then assigned to their bins and the
+            final<br>
+            binning is given</p>
+        <button class="figure-button">Full size image ></button>
+    </div>
+    <div class="model2">Datasets</div>
+    <p class="paragraph5">In this section, we will briefly describe the datasets used to evaluate our method in this
+        paper. <br> The Sharon dataset [33] is a real dataset utilized for evaluating various metagenomic analyses. <br>
+        This
+        dataset consists of 18 feces samples collected from a newborn infant at eleven distinct <br> intervals. These
+        samples
+        were sequenced on an ILLUMINA machine, and the resulting reads <br> are accessible in the NCBI Sequence
+        ReadArchive
+        database with the accession number <br> SRA052203. The researchers who gathered this dataset assembled the reads
+        into
+        2,329 <br> contigs and, after analyzing the contigs, assigned them to 33 distinct microbial species. The UC <br>
+        Berkeley
+        Genetic Information Database contains these contigs and identified variants <br>
+        <a href="">(https://ggkbase.berkeley.edu/carrol/organisms)</a>. <br>
+
+        Another dataset used to evaluate metagenomic binning methods is the CAMI [34] challenge <br> dataset. Diverse
+        datasets of varying complexity have been collected for this challenge to <br> evaluate various metagenomic tools
+        and
+        analysis techniques. The three datasets used in <br> this study, CAMI-Low, CAMI-Medium, and CAMI-High, contain
+        one
+        sample, two samples, and five <br> samples, respectively. The public can access these datasets via the CAMI
+        Challenge
+        website <br> <a href="">(https://data.cami-challenge.org/participate)</a>. <br>
+
+        As a simulated dataset, Strain and Species were considered in this paper, which were <br> simulated by the
+        authors of
+        CONCOCT [19] using a microbial community from the Human <br> Microbiome Project. The authors assembled contigs
+        using
+        reads that were analyzed in various <br> Human Microbiome Project samples [35]. The coverage sequences were then
+        constructed by <br> comparing the constructed contigs to the reads.
+    </p>
+
+    <div class="model3">Performance on the Sharon dataset</div>
+    <p class="paragraph6">In addition, AFITBin is assessed using the Sharon dataset. Sharon is a real dataset from a
+        well- <br>studied microbial experiment in which the species involved have been thoroughly examined, <br> as explained
+        previously. The sequenced reads of 18 distinct samples were used to assemble <br> 2,329 contigs associated with 33
+        distinct microorganisms. As depicted in Table 2, AFITBin <br> performs comparably to other methods with the best
+        performance for the Sharon dataset <br> across all evaluation criteria. On this dataset, AFITBin and MetaCon have the
+        highest F-score <br> of 0.82.</p>
+    </div>
+    
+  </div>  
+  
+  </div>
+</div>
+</div>
 
 
+
+  <?php include("footer.php"); ?>
 
 
 </body>
+
 </html>
+<script>
+    function openSection(evt, sectionName) {
+      var i, tabcontent, tablinks;
+      tabcontent = document.getElementsByClassName("tabcontent");
+      for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+      }
+      tablinks = document.getElementsByClassName("tablinks");
+      for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+      }
+      document.getElementById(sectionName).style.display = "block";
+      evt.currentTarget.className += " active";
+    }
+    
+    </script>

@@ -1,0 +1,172 @@
+#body{
+  margin-top: -10px;
+  margin-left: -10px;
+}
+
+#contain1{
+    height: 80px;
+    margin-left: 0px;
+    width: 1528px;
+   
+  }
+  #Publish{
+    font-size:larger;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman' , serif;
+     background-color: #1884df; 
+     color: white;
+      border: none;
+  }
+  .Publish{
+    font-size:15px; 
+    background-color: white;
+    color: black;
+     
+  }
+  #Journals{
+    font-size:larger;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman' , serif;
+     background-color: #1884df; 
+     color: white;
+      border: none;
+  }
+  .Journals{
+    font-size:15px; 
+    background-color: white;
+    color: black;
+     
+  }
+  #Explore-Content{
+    font-size:larger;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman' , serif;
+     background-color: #1884df; 
+     color: white;
+      border: none;
+  }
+  .Explore-Content{
+    font-size:15px; 
+    background-color: white;
+    color: black;
+     
+  }
+  #Multimedia{
+    font-size:larger;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman' , serif;
+     background-color: #1884df; 
+     color: white;
+      border: none;
+  }
+  .Multimedia{
+    font-size:15px; 
+    background-color: white;
+    color: black;
+     
+  }
+  #Events{
+    font-size:larger;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman' , serif;
+     background-color: #1884df; 
+     color: white;
+      border: none;
+  }
+  .Events{
+    font-size:15px; 
+    background-color: white;
+    color: black;}
+  
+  
+          
+          .box3{
+   
+            height: 40px;
+            width: 100%;
+          }
+          #parent{
+            height: 1000px;
+            width: 100%;
+            padding-left: 15%;
+          }
+          .child1{
+            height: 500px;
+            width: 180px;
+            margin-left: 20px;
+          }
+          header {
+            padding: 10px;
+          }
+          .navbar3 ul {
+            list-style: none;
+            margin-top: -30px;
+        
+            
+          }
+          .navbar3 li{
+            margin-left: -70px;
+            margin-top: 20px;
+            font-size: 14px;
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+            justify-content: center;
+
+          }
+          .navbar3 a {
+            text-decoration: underline;
+            color: #333;
+            margin-top: 20px;
+          }
+          .navbar3 a:hover {
+            background-color:#add8e6;
+          }
+          .child1 ul li:hover {
+          background-color: #add8e6 ;
+          }
+          .navbar4{
+            width: 180px;
+            margin-left: -20px;
+          }
+          .navbar4 ul {
+            list-style: none;
+            margin-top: -10px;
+            margin-left: -10px;
+            
+          }
+          .navbar4 li{
+            margin-left: -40px;
+            margin-top: 20px;
+            font-size: 14px;
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+            justify-content: center;
+          }
+          .navbar4 a {
+            text-decoration: underline;
+            color: #333;
+            margin-top: 20px;
+          }
+          .navbar4 a:hover {
+            background-color:#add8e6;
+            width: 180px;
+          }
+          .child2{
+            height: 100%;
+            width: 56%;
+            margin-left: 250px;
+            margin-top: -500px;
+          }
+          .heading1{
+            font-family:Arial, Helvetica, sans-serif ;
+            font-size: 30px;
+            
+            color:#1b3051;
+          }
+          .head1{
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: lighter;
+            color: #333;
+          }
+        .composite-layer{
+          background-image: linear-gradient(to bottom,#2450aa,#1884df);
+          margin-left: 0px;
+          font-family: Arial, Helvetica, sans-serif;
+          width: 1528px;
+          height: 800px;
+        }

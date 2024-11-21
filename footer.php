@@ -57,7 +57,7 @@
             <h3 class="text-white fw-bold fs-5 my-3 mt-5">Discover content</h3>
             <a class="text-white fs-6" href="journals.php">Journals A-Z</a><br>
 	          <a class="text-white fs-6" href="article_by_subject.php">Articles by subject</a><br>
-	          <a class="text-white fs-6" href="index.php">Xana Index</a><br>
+	          <a class="text-white fs-6" href="xana.php">Xana Index</a><br>
 	          <a class="text-white fs-6" href="articles.php">Xana Articles</a><br>
           </div>
         </div>

@@ -11,7 +11,7 @@
 <?php include("header.php"); ?>
 
 <div class="container">
-    <h1 class="text-center">XANA Journal Publishing Models</h1>
+    <h1>XANA Journal Publishing Models</h1>
     <div class="main">
         <ol>
             <li><h4>Closed Access Model</h4>

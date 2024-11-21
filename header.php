@@ -16,8 +16,12 @@
 <header>
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-8 col-sm-12">
+            <div class="col-md-4 col-sm-12 d-flex">
                 <a href="index.php"><img src="assets\img\xana.png" width="200px" alt="logo"></a>
+                <p class="fs-3 fw-bold mt-2">Publications</p>
+            </div>
+            <div class="col-md-4">
+              <p class="fs-5 fw-bold mt-3 ms-md-5">Nurtured by Scientists, Powered By AI</p>
             </div>
             <div class="col-md-4 col-sm-12 my-3">
                 <form id="searchForm" action="search.php" method="get">
@@ -31,7 +35,6 @@
   
     <nav class="navbar navbar-expand-lg bg-primary">
         <div class="container">
-          <a class="navbar-brand text-light" href="index.php">Bioinformatics</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <i class="bi bi-list text-light fs-2"></i>
           </button>
@@ -43,6 +46,7 @@
                     </a>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="publish_with_us.php">Publish With Us</a></li>
+                        <li><a class="dropdown-item" href="registration_form.php">Register In Xana</a></li>
                         <li><a class="dropdown-item" href="for_author.php">For Authors</a></li>
                         <li><a class="dropdown-item" href="for_referees.php">For Referees</a></li>
                         <li><a class="dropdown-item" href="for_edirtorial_board.php">For Editorial Board</a></li>
@@ -124,11 +128,6 @@
         <div class="col-md-1 "></div>
         <div class="col-md-10">
             <div class="row" >
-            <div class="col-md-12 d-flex gap-2 py-3">
-                <a class="text-white" href="#" >Xana</a><i class="bi bi-caret-right text-white"></i>
-                <a class="text-white" href="#">Publish</a><i class="bi bi-caret-right text-white"></i>
-                <a class="text-decoration-none text-white" href="#">Bioinformatics</a>
-            </div>
             </div>
         </div>
         <div class="col-md-1"></div>

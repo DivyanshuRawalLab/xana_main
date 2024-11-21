@@ -1,260 +1,200 @@
-  <!DOCTYPE html>
-  <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Xana Bioinformatics</title>
-    <link rel="stylesheet" href="assets//css//styles.css">
+<!DOCTYPE html>
+<html>
+<head>
 
+ <title>Xana</title>
+ <link rel="stylesheet"href="xana.css">
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+ 
+</head>
+<body>
 
-
-  </head>
-  <body>
-
-
-  <?php include("header.php"); ?>
-
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-md-1 "></div>
-        <div class="col-md-10">
-          <div class="row">
-            <div class="col-md-5">
-              <div class="row">
-                <div class="col-md-12 " style="border-bottom: 1px solid rgb(195, 194, 194);">
-                  <h4 class="my-3 fs-3">Aims and scope</h4>
-                  <p class="fs-5">Bioinformatics is a field of study that uses computation to extract knowledge from biological data. It includes the collection, storage, retrieval, manipulation and modelling of data for analysis, visualization or prediction through the development of algorithms and software.</p>
-                </div>
-                  <div class="col-md-4 col-sm-12 my-4">
-                    <img src="https://media.springernature.com/lw900/springer-cms/rest/v1/content/16822692/data/v1" alt="" class="img-fluid">
-                  </div>
-                  <div class="col-md-7 col-sm-12 my-4">
-                    <p><a href="#" class="text-decoration-none fs-4" style="color: #1884df;">Become an Editorial Board
-                      Member</a></p>
-                    <p class="fs-5">We are recruiting new Editorial Board
-                      Members.</p>
-                  </div>
-
-                <div class="col-md-12" style="border-top: 1px solid rgb(195, 194, 194);">
-                  <h3>Editor's Picks</h3>
-                  <div class="row" id="edit-pick">
-                    <div class="col-md-4 col-sm-12">
-                      <img src="https://media.springernature.com/lw725/springer-cms/rest/v1/content/26938024/data/v1" alt="" class="my-3">
-                    </div>
-                    <div class="col-md-7 col-sm-12 editor">
-                      <a href="#" class=" my-3" style="font-size: medium; color: #1884df;">NeuronBridge: an intuitive web application for neuronal morphology search across large data sets</a>
-                    </div>
-                    <div class="col-md-4 col-sm-12" style="border-bottom: 1px solid rgb(195, 191, 191)">
-                      <img src="https://media.springernature.com/lw725/springer-cms/rest/v1/content/26938014/data/v1" alt="" class="my-3 pb-3">
-                    </div>
-                    <div class="col-md-7 col-sm-12 editor" style="border-bottom: 1px solid rgb(195, 191, 191);">
-                      <a href="#" class=" my-3" style="font-size: medium; color: #1884df;">Cell4D: a general purpose spatial stochastic simulator for cellular pathways</a>
-                    </div>
-                  </div>
-
-                  <div class="col-md-12">
-                    <h3 class="my-4">Articles</h3>
-                    <div class="row">
-                      <div class="col-md-11">
-                        <div class="row">
-                          <div class="col-md-12">
-                            <div class="tab" data-tab="recent">Recent</div>
-                              <div class="tab" data-tab="most-accessed">Most accessed</div>
-
-                          </div>
-                          <div class="col-md-12">
-                            <div class="tab-content" data-content="recent" style="border: none;">
-                              <p class="fs-5 hover:text-decoration-underline" style="color: #1884df; cursor: pointer;">A comparative analysis of mutual information methods for pairwise relationship detection in metagenomic data</p>
-                              <p class="text-secondary fs-6">Dallace Francis and Fengzhu Sun</p>
-                              <p class="pb-2" style="font-size: small; border-bottom: 1px solid rgb(195, 191, 191);">Research | 14 August 2024</p>
-                            </div>
-                            <div class="tab-content" data-content="recent" style="border: none;">
-                              <p class="fs-5 hover:text-decoration-underline" style="color: #1884df; cursor: pointer;">AFFECT: an R package for accelerated functional failure time model with error-contaminated survival times and applications to gene expression data</p>
-                              <p class="text-secondary fs-6">Li-Pang Chen and Hsiao-Ting Huang</p>
-                              <p class="pb-2" style="font-size: small; border-bottom: 1px solid rgb(195, 191, 191);">Software | 13 August 2024</p>
-                            </div>
-                            <div class="tab-content" data-content="recent" style="border: none;">
-                              <p class="fs-5 hover:text-decoration-underline" style="color: #1884df; cursor: pointer;">BEROLECMI: a novel prediction method to infer circRNA-miRNA interaction from the role definition of molecular attributes and biological networks</p>
-                              <p class="text-secondary fs-6">Xin-Fei Wang, Chang-Qing Yu, Zhu-Hong You, Yan Wang, Lan Huang, Yan Qiao, Lei Wang and Zheng-Wei Li</p>
-                              <p class="pb-2" style="font-size: small; border-bottom: 1px solid rgb(195, 191, 191);">Research | 10 August 2024</p>
-                            </div>
-                          </div>
-                          <div class="col-md-12 ">
-                            <div class="tab-content" data-content="most-accessed" style="border: none;">
-                              <p class="fs-5 hover:text-decoration-underline" style="color: #1884df; cursor: pointer;">QMachine: commodity supercomputing in web browsers</p>
-                              <p class="text-secondary fs-6">Sean R Wilkinson and Jonas S Almeida</p>
-                              <p class="pb-2" style="font-size: small; border-bottom: 1px solid rgb(195, 191, 191);">Research article | 9 June 2014</p>
-                            </div>
-                            <div class="tab-content" data-content="most-accessed" style="border: none;">
-                              <p class="fs-5 hover:text-decoration-underline" style="color: #1884df; cursor: pointer;">WGCNA: an R package for weighted correlation network analysis</p>
-                              <p class="text-secondary fs-6">Peter Langfelder and Steve Horvath</p>
-                              <p class="pb-2" style="font-size: small; border-bottom: 1px solid rgb(195, 191, 191);">Software | 29 December 2008</p>
-                            </div>
-                            <div class="tab-content" data-content="most-accessed" style="border: none;">
-                              <p class="fs-5 hover:text-decoration-underline" style="color: #1884df; cursor: pointer;">RSEM: accurate transcript quantification from RNA-Seq data with or without a reference genome</p>
-                              <p class="text-secondary fs-6">Bo Li and Colin N Dewey</p>
-                              <p class="pb-2" style="font-size: small; border-bottom: 1px solid rgb(195, 191, 191);">Software | 4 August 2011</p>
-                            </div>
-                            <div class="row">
-                              <div class="col-md-6" class="tab-content" data-content="most-accessed" style="border: none;">
-                                <p class="fs-6 text-decoration-underline" style="color: #1884df; cursor: pointer; font-size: small;">Most recent articles RSS <i class="bi bi-wifi"></i></p>
-                              </div>
-                              <div class="col-md-6" class="tab-content" data-content="most-accessed" style="border: none;">
-                                <a href="articles.php" class="btn btn-primary text-white p-2">View all articles <i class="bi bi-arrow-right-short"></i></a>
-                              </div>
-
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-
-              </div>
-            </div>
-
-            <div class="col-md-5" >
-              <div class="results" id="search-results"></div>
-              <div class="row my-3">
-                <div class="col-md-12" id="content">
-                  <h3 class="mb-4">Collections / submissions</h3>
-                </div>
-                <div class="col-md-4 my-2 board-member">
-                  <img src="https://media.nature.com/lw767/magazine-assets/d43978-023-00167-9/d43978-023-00167-9_26293136.jpg?as=webp" alt="" class="img-fluid">
-                </div>
-                <div class="col-md-8 my-2 board-member" id="board-member">
-                  <h5 class="pt-2">Bacterial Taxonomy</h5>
-                  <p class="pt-2">Guest edited by</p>
-                </div>
-                <div class="col-md-4 board-member">
-                  <img src="https://bernardmarr.com/wp-content/uploads/2021/11/Use-Artificial-Intelligence-To-Identify-Any-Plant.jpg" alt="" class="img-fluid">
-                </div>
-                <div class="col-md-8 board-member" id="board-member">
-                  <h5 class="pt-2">Plants Genomics</h5>
-                  <p class="pt-2">Guest edited by</p>
-                </div>
-                <div class="col-md-4 board-member">
-                  <img src="https://images.pexels.com/photos/256262/pexels-photo-256262.jpeg" alt="" class="img-fluid">
-                </div>
-                <div class="col-md-8 board-member" id="board-member">
-                  <h5 class="pt-2">Computational Microscopy</h5>
-                  <p class="pt-2">Guest edited by</p>
-                </div>
-
-                <div class="col-md-12 my-4 py-4 climate-change">
-                  <h3>Spotlight On</h3>
-                  <img src="https://media.springernature.com/lw960/springer-cms/rest/v1/content/23590916/data/v8" alt="" class="img-fluid">
-                </div>
-                <div class="col-md-12 climate-change2 mb-4">
-                  <h5 style="color: #1884df;">Climate Change</h5>
-                  <p class="pt-2 d-inline">Understanding the impact of <h6 class="d-inline">climate change</h6> and exploring potential solutions to this global threat is more important than ever. Here we share recent highlights from the <h6 class="d-inline">XANA Series</h6> journals.</p>
-                </div>
-                <div class="col-md-12 pt-3" style="border-top: 1px solid rgb(196, 193, 193);">
-                  <h3>Xana Series Blog</h3>
-                </div>
-                <div class="col-md-3 series-blog my-3">
-                  <img src="https://media.springernature.com/w100/bmc-blogs/bmcseriesblog/wp-content/uploads/sites/9/2024/06/AdobeStock_379881175-125x125.jpg" alt="">
-                </div>
-                <div class="col-md-9 my-3 series-blog">
-                  <p class="py-2" style="color: #1884df;">World Refugee Day 2024: Highlights from the XANA Series</p>
-                  <p>19 June 2024</p>
-                </div>
-                <div class="col-md-12" >
-                  <h3 class="mt-2">Latest Tweets</h3>
-                  <div class="twitter-box shadow my-5" style="border-radius: 10px;">
-                    <img src="https://static.vecteezy.com/system/resources/previews/031/737/227/original/twitter-new-logo-twitter-icons-new-twitter-logo-x-2023-x-social-media-icon-free-png.png" style="height: 50px;width: 50px;margin-left: 30px; margin-top: 20px;" class="mx-5">
-                  <h2 class="mx-5 px-2">Nothing to see here - yet</h2>
-                  <p class="mx-5 px-2">When they post, their posts will show here.</p>
-                  <button class="btn mx-5 my-3 text-white" style="background-color: #1884df; border-radius: 50px;  ">View on X</button>
-                </div>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="col-md-2 mt-4">
-              <div class="row">
-                <div class="col-md-12">
-                  <div id="imp-info">
-                    <h6 class="my-3">Important information</h6>
-                    <a href="#">Editorial board</a><br><br>
-                    <a href="#">For authors</a><br><br>
-                    <a href="#">For editorial board members</a><br><br>
-                    <a href="#">For reviewers</a><br><br>
-                  </div>
-                </div>
-                <div class="my-2 py-2" id="imp-info2">
-                  <a href="">Manuscript editing services</a>
-                </div>
-                <div class=" pb-4" id="imp-info3">
-                  <a href="">Contact Us</a>
-                </div>
-                <div class="pt-4" id="imp-info4">
-                  <div>
-                    <h6 class="pb-4">Annual Journal Metrics</h6>
-                    <p>Editor-in-Chief: DR. Kamal Rawal
-                      Online ISSN:Not Assigned
-                      Print ISSN:Not Assigned
-                      Â© XANA, Noida</p>
-                  </div>
-
-                  <h6>Citation Impact 2023</h6>
-                  <p class="mb-4">Journal Impact Factor: 2.9
-                    5-year Journal Impact Factor: 3.6
-                    Source Normalized Impact per Paper (SNIP): 0.821
-                    SCImago Journal Rank (SJR): 1.005</p>
-
-                  <h6>Speed 2023</h6>
-                  <p class="mb-4">Submission to first editorial decision (median days): 12
-                    Submission to acceptance (median days): 146</p>
-                  
-                  <h6>Usage 2023</h6>
-                  <p class="mb-4">Downloads: 5,987,678 <br>
-                    Altmetric mentions: 4,858</p>
-                  
-                    <div class="my-5">
-                      <img src="https://tpc.googlesyndication.com/simgad/5747396451419067851" alt="" class="img-fluid" style="height: 40vh; width:100%">
-                    </div>
-                
-                </div>
-
-
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+<?php include("header.php"); ?>
+    
+  <!-- The slideshow container -->
+ 
+  <!-- The slideshow images -->
+<div id="carouselExampleRide" class="carousel slide" data-bs-ride="true">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://cdn.pixabay.com/photo/2020/06/14/09/00/research-5297028_1280.jpg" class="d-block w-100 h-30" alt="...">
     </div>
-
-    <div class="container">
-      <div class="row">
-      <div class="container-smile">
-        <div class="feedback-box">
-          <h2 class="feedback-header">How was your experience today?</h2>
-          <div class="feedback-options">
-            <div class="feedback-option" data-value="bad">
-              <i class="far fa-frown"></i>&#128542;
-            </div>
-            <div class="feedback-option" data-value="ok">
-              <i class="far fa-meh"></i>&#128528;
-            </div>
-            <div class="feedback-option" data-value="good">
-              <i class="far fa-smile"></i>&#128578;
-            </div>
-            <div class="feedback-option" data-value="great">
-              <i class="far fa-grin"></i>&#128515;
-            </div>
-          </div>
-          <button class="feedback-button">Send feedback</button>
-        </div>
-      </div>
-      </div>
+    <div class="carousel-item">
+      <img src="https://cdn.pixabay.com/photo/2024/05/12/15/40/ai-generated-8757192_960_720.png" class="d-block w-100 h-30" alt="...">
     </div>
+    <div class="carousel-item">
+      <img src="https://cdn.pixabay.com/photo/2022/03/30/09/15/microscope-7100809_960_720.jpg" class="d-block w-100 h-30" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="https://cdn.pixabay.com/photo/2024/03/26/11/57/pills-8656650_1280.jpg" class="d-block w-100 h-30" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleRide" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleRide" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+<div class="container my-3">
+  <h1>Research in Progress</h1>
+    <hr>
+  <div class="row">
+    <div class="col-md-4">
+      <p class="">At XJournals we are dedicated to publishing the best open access journals across our portfolio of over 250 titles and are always striving to drive progress in biology, health sciences and medicine.</p>
+      <p class="">With over 20 years of expertise in pioneering open access,  you can trust our extensive experience to deliver high quality, impactful research and provide a supportive  publishing experience for authors. If you believe, like we do, that<strong>openness,</strong> <strong>transparency</strong> and <strong>community focus</strong> should  be at the heart of research publishing, then we would like to  welcome you to the XJournals family of journals.
+    </div>
+    <div class="col-md-4">
+      <p>Explore the latest patient information from X Journals Network, including easy-to-understand information about prevention and management of common illnesses.</p>
+      <p>The X Journals Network home for the latest scientific advances in artificial intelligence (AI) that impact the practice of medicine.</p>
+    </div>
+    <div class="col-md-4">
+      <h2>For Authors</h2>
+      <div class="publish"><a href="for_author.php">For Authors</a></div>
+      <div class="publish"><a href="editorial_policies.php">Editorial policies</a></div>
+      <div class="publish"><a href="journal_info.php">Journals Info</a></div>
+      <div class="publish"><a href="article_processing.php">Article-processing charges: FAQs</a></div>
+      <div class="publish"><a href="terms_conditon.php">Terms & Conditions</a></div>
+    </div>
+  </div>
+</div>
+
 
   
+          
+        
+       
+        <div class="container-fluid bg-light p-5 rounded">
+          <h2>Featured</h2>
+          <div class="row">
+            <div class="col-md-4">
+              <img src="https://www.pwc.com.au/industry/mining/2024-global-mine-thumbnail.jpeg" class="img-fluid rounded" >
+              <a href="#" class="mt-2 fw-semibold fs-3 text-black text-decoration-none">Sequence modeling and design from molecular to genome scale with Evo</a>
+              <p>A new tool that revolutionizes synthetic biology by engineering genetic sequences with ‘unparalleled accuracy’ and brings about a new era of diagnostics, therapeutics and cellular engineering. Know more about EVO AI.</p>
+            </div>
+            <div class="col-md-4">
+              <img src="https://www.pwc.com/gx/en/issues/esg/thumbnail-global-csrd-survey.jpeg" class="img-fluid rounded">
+              <a href="#" class="mt-2 fw-semibold fs-3 text-black text-decoration-none">Generative AI for Self-Adaptive Systems: State of the Art and Research Roadmap</a>
+              <p>Generative AI is revolutionizing self-adaptive systems, enhancing autonomy and human interaction while addressing critical integration challenges.</p>
+            </div>
+            <div class="col-md-4">
+                <img src="https://www.pwc.com/gx/en/issues/esg/gettyimages-521813119-cc-metadata.jpg" class="img-fluid rounded">
+                <a href="#" class="mt-2 fw-semibold fs-3 text-black text-decoration-none">Antibiotic Treatment for 7 versus 14 Days in Patients with Bloodstream Infections</a>
+                <p>Good news for patients: A shorter antibiotic course could revolutionize the treatment of bloodstream infections resulting in faster recovery.</p>
+            </div>
+           <hr>
+          </div>
+        </div>
+            
+    
+    <div class="container-fluid p-5">
+      <div class="row">
+      <div class="col-md-4">
+        <h2 class="title">Research</h2>
+        <div class="box">
+          <div class="box-title">Changes in Emergency Contraceptive Fills After Massachusetts' Statewide Standing Order</div>
+          <div class="box-content">Dima M. Qato, PharmD, MPH, PhD; et al.</div>
+          <div class="box-content">Research Letter</div>
+        </div>
+        <div class="box">
+          <div class="box-title">Selective vs Standard Risk-Stratified, Heparin-Based, Obstetric Thromboprophylaxis Protocol</div>
+          <div class="box-content">Macie L. Champion, MD; et al.</div>
+          <div class="box-content">Original Investigation</div>
+        </div>
+        <div class="box">
+          <div class="box-title">Selective vs Standard Risk-Stratified, Heparin-Based, Obstetric Thromboprophylaxis Protocol</div>
+          <div class="box-content">Macie L. Champion, MD; et al.</div>
+          <div class="box-content">Original Investigation</div>
+        </div>
+      </div>
+    
+      <div class="col-md-4">
+        <h2 class="title">Opinion</h2>
+        <div class="box">
+          <div class="box-title">Where Are All the Pediatricians?</div>
+          <div class="box-content">Katherine A. Jordan, MD; et al.</div>
+          <div class="box-content">Viewpoint</div>
+        </div>
+        <div class="box">
+          <div class="box-title">Embedding Patient and Clinician Voices in Clinical Trials</div>
+          <div class="box-content">Stuart G. Nicholls, PhD; et al.</div>
+          <div class="box-content">Viewpoint</div>
+        </div>
+        <div class="box">
+          <div class="box-title">Embedding Patient and Clinician Voices in Clinical Trials</div>
+          <div class="box-content">Stuart G. Nicholls, PhD; et al.</div>
+          <div class="box-content">Viewpoint</div>
+        </div>
+      </div>
+    
+      <div class="col-md-4">
+        <h2 class="title">Clinical Review & Education</h2>
+        <div class="box">
+          <div class="box-title">Why Evidence Generation Should Matter to Payers and How They Can Help</div>
+          <div class="box-content">Ali B. Abbasi, MD; et al.</div>
+          <div class="box-content">Special Communication</div>
+        </div>
+        <div class="box">
+          <div class="box-title">Proteinuria, Myalgias, and Decreased Pigmentation of Facial Skin</div>
+          <div class="box-content">Shan Wu, MD; et al.</div>
+          <div class="box-content">JAMA Clinical Challenge</div>
+         
+        </div>
+        <div class="box">
+          <div class="box-title">Proteinuria, Myalgias, and Decreased Pigmentation of Facial Skin</div>
+          <div class="box-content">Shan Wu, MD; et al.</div>
+          <div class="box-content">JAMA Clinical Challenge</div>
+         
+        </div>      
+      </div>
+    </div>
+</div>
 
+    
     <?php include("footer.php"); ?>
-  </body>
-  </html>
+  
+  
+</body>
+</html>
+
+<script>
+ // Automatic slideshow script
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 5000); // Change image every 5 seconds
+}
+
+// Function to change the current slide
+function currentSlide(n) {
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display =AbstractRange;  
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[n-1].style.display = "block";  
+  dots[n-1].className += " active";
+}
+  </script>
+

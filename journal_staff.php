@@ -17,11 +17,11 @@
                 </div>
                 <div class="container cleared container-type-body-content wysiwyg" data-container-type="body-content">
                     <h2>Editorial</h2>
-<p><strong>Editor in Chief:</strong>&nbsp;Dr.Kamal Rawal&nbsp;<br><strong>Chief Magazine Editor</strong>:&nbsp;Richard Webb&nbsp;<br><strong>Chief Biological Sciences&nbsp;Editor:</strong>&nbsp;Francesca Cesari<br><strong>Chief Physical Sciences Editor:</strong>&nbsp;Karl Ziemelis&nbsp;<br><strong>Creative Director:</strong>&nbsp;Kelly Buckheit Krause<br><strong>Managing Editor:</strong>&nbsp;Colin Sullivan</p>
-<p><strong>News/News Features:</strong>&nbsp;Celeste Biever, Ewen Callaway, Davide Castelvecchi, Catriona Clarke, Nisha Gaind, Elizabeth Gibney, Flora Graham, Max Kozlov, Katrina Krämer, Freda Kreier, Heidi Ledford,<strong>&nbsp;</strong>Brendan Maher, Smriti Mallapaty, Anne Marie Conlon, Ehsan Masood, Richard Monastersky, Miryam Naddaf, Helen Pearson, Mariana Pereira Lenharo,&nbsp;Nicky Phillips, Sara Phillips, Quirin Schiermeier, Kerri Smith, Alix Soliman, Emma Stoye, Jeff Tollefson, Richard Van Noorden, Traci Watson, Alexandra Witze, Lauren Wolf.</p>
-<p><strong>Opinion​:</strong>&nbsp;Joanne Baker,&nbsp;Jennifer Gardiner, Lucy Odling-Smee, Anne Pichon, Ajai Sreevatsan.</p>
-<p><strong>News and Views:</strong> Andrew Mitchinson, Mary Abraham, Abigail Klopper, Holly Smith.</p>
-<p><strong>Research Briefings:&nbsp;</strong>Andrew Mitchinson, Natasha Bray.&nbsp;</p>
+<p><strong>Editor in Chief:</strong>&nbsp;To Be Added&nbsp;<br><strong>Chief Magazine Editor</strong>:&nbsp;To Be Added&nbsp;<br><strong>Chief Biological Sciences&nbsp;Editor:</strong>&nbsp;To Be Added<br><strong>Chief Physical Sciences Editor:</strong>&nbsp;To Be Added&nbsp;<br><strong>Creative Director:</strong>&nbsp;To Be Added<br><strong>Managing Editor:</strong>&nbsp;To Be Added</p>
+<p><strong>News/News Features:</strong>&nbsp;To Be Added</p>
+<p><strong>Opinion​:</strong>&nbsp;To Be Added</p>
+<p><strong>News and Views:</strong> To Be Added</p>
+<p><strong>Research Briefings:&nbsp;</strong>To Be Added&nbsp;</p>
 <p><strong>Research:</strong>&nbsp;Susan&nbsp;Allison, Victoria Aranda, Anna Armstrong, Darren Burgess, George Caputa, Urmila Chadayammuri, I-han Chou, Yohan Dall’Agnese,&nbsp;Angela Eggleston, Zoltan Fehervari, Véronique Gebala, Henry Gee, Noah Gray, Claire Hansell, Marie-Thérèse Heemels, Magdalena Helmer, Kristina Maria Kareh, Bryden Le Bailly, Federico Levi, Barbara Marte, Juliane Mossinger, Tobias Rödel,&nbsp;David Rowland, Sadaf Shadan,&nbsp;Mary Elizabeth Sutherland, Clare Thomas, Stuart Thomas, Christina Tobin Kåhrström, Michelle Trenkmann, Florian Ullrich, John VanDecar, Jie Wang, Liqian Wang,&nbsp;Ursula Weiss, Michael White, Yang Xia</p>
 <p><strong>Insights/Reviews/Perspectives:</strong> Ursula Weiss.</p>
 <p><strong>Careers:</strong> David Payne, Jack Leeming, Kendall Powell.&nbsp;</p>

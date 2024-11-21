@@ -5,12 +5,7 @@ error_reporting(E_ALL);
 
 session_start();
 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "search_db";
-
-$conn = new mysqli($servername, $username, $password, $dbname);
+include 'admin_db.php';
 
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
@@ -19,7 +14,7 @@ if ($conn->connect_error) {
 $query = isset($_GET['query']) ? trim($_GET['query']) : '';
 
 if (empty($query)) {
-    header('Location: index.html');
+    header('Location: index.php');
     exit;
 }
 

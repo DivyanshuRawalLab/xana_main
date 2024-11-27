@@ -36,7 +36,15 @@ $stmt = $conn->prepare($sql);
 $stmt->bind_param("sssss", $name, $email, $affiliation, $qualification, $userTypesString);
 
 if ($stmt->execute()) {
-    echo "</h1>Register Sussessfully</h1/>";
+    include("header.php");
+
+    echo "<div class='container my-5'>";
+        echo "<h1 class='text-center'>Register Successfully</h1/>";
+        echo "<p class='text-center text-success fs-5'>\"Thank you for registering with Xana Publications! We're excited to have you join our community.\"</p/>";
+    echo "</div>";
+
+    include("footer.php");
+    
 } else {
     echo "Error: " . $stmt->error;
 }
